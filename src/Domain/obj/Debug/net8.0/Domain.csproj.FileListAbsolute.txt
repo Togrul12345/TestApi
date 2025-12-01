@@ -1,0 +1,99 @@
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\someverything\Source\Repos\TenderAPI\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\ref\Domain.dll

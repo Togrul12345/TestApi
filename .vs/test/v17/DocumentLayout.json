@@ -1,0 +1,1617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\utility\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\utility\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\contexts\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\contexts\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\handlers\\appuserhandlers\\createappusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\handlers\\appuserhandlers\\createappusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\entities\\domainerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\entities\\domainerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\persistence\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\dependencyinjectionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\dependencyinjectionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\helpers\\permission\\claimshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\helpers\\permission\\claimshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\helpers\\permission\\roleclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\helpers\\permission\\roleclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\constants\\responsemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\constants\\responsemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\constants\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\constants\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\constants\\constantvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\constants\\constantvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\helpers\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\helpers\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\validators\\createappusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\validators\\createappusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\services\\domain\\localizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\services\\domain\\localizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\common\\mappings\\imapto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\mappings\\imapto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\controllers\\web\\paginationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\web\\paginationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\pagination\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\pagination\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\pagination\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\pagination\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\controllers\\web\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\web\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\handlers\\paginationhandlers\\getpaginationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\handlers\\paginationhandlers\\getpaginationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\common\\mappings\\paginatedlistconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\mappings\\paginatedlistconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\persistence\\appuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\appuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\interfaces\\iappuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\interfaces\\iappuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\queries\\paginationqueries\\getpaginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\queries\\paginationqueries\\getpaginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\handlers\\appuserhandlers\\updateappusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\handlers\\appuserhandlers\\updateappusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\commands\\appusercommands\\updateappusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\commands\\appusercommands\\updateappusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\results\\appuserresults\\getappusersqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\results\\appuserresults\\getappusersqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\queries\\appuserqueries\\getappusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\queries\\appuserqueries\\getappusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\queries\\appuserqueries\\getappuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\queries\\appuserqueries\\getappuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\validators\\updateappusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\validators\\updateappusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\handlers\\appuserhandlers\\deleteappusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\handlers\\appuserhandlers\\deleteappusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\handlers\\appuserhandlers\\getappuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\handlers\\appuserhandlers\\getappuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\handlers\\appuserhandlers\\getappusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\handlers\\appuserhandlers\\getappusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\handlers\\appuserhandlers\\loginappuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\handlers\\appuserhandlers\\loginappuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\queries\\appuserqueries\\loginappuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\queries\\appuserqueries\\loginappuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\commands\\appusercommands\\deleteappusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\commands\\appusercommands\\deleteappusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\commands\\appusercommands\\createappusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\commands\\appusercommands\\createappusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\common\\behaviors\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\behaviors\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\contexts\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\contexts\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\controllers\\base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\migrations\\20251124064027_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\migrations\\20251124064027_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\contexts\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\contexts\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\jwt\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\jwt\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\contexts\\proddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\contexts\\proddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\common\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\common\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\entities\\baseauditedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\entities\\baseauditedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\results\\appuserresults\\loginappuserresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\results\\appuserresults\\loginappuserresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\handlers\\roleuserhandlers\\roleusercommandshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\handlers\\roleuserhandlers\\roleusercommandshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\features\\mediator\\commands\\roleusercommands\\roleusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\mediator\\commands\\roleusercommands\\roleusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\permission\\permissionpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\permission\\permissionpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\encryption\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\encryption\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\entities\\auditedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\entities\\auditedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\entities\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\entities\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\TestDb\\20251121071144_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\Migrations\\TestDb\\20251121071144_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\TestDb\\20251121070815_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\Migrations\\TestDb\\20251121070815_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\persistence\\configurations\\baseconfiguration\\auditedentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\configurations\\baseconfiguration\\auditedentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\jwt\\configuration\\swaggerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\jwt\\configuration\\swaggerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\jwt\\configuration\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\jwt\\configuration\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\services\\external\\atlsmsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\services\\external\\atlsmsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\interfaces\\ilocalizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\interfaces\\ilocalizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\application\\common\\interfaces\\ismssenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\interfaces\\ismssenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\resources\\ru.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\resources\\ru.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\resources\\en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\resources\\en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\resources\\az.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\resources\\az.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\filters\\permissionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\filters\\permissionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\filters\\authorizerolesattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\filters\\authorizerolesattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\services\\internal\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\services\\internal\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\permission\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\permission\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\migrations\\20251124070550_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\migrations\\20251124070550_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateAppUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\CreateAppUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\CreateAppUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\CreateAppUserCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\CreateAppUserCommandHandler.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:53:57.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\TestDbContext.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Contexts\\TestDbContext.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAwG4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:47:27.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Utility\\Utilities.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Utility\\Utilities.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Utility\\Utilities.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Utility\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:42:14.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomainError.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\DomainError.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\DomainError.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\DomainError.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Entities\\DomainError.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:03:45.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\EfRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\EfRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\EfRepository.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwKIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:19:58.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:55:17.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjectionApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\DependencyInjectionApplication.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DependencyInjectionApplication.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\DependencyInjectionApplication.cs",
+              "RelativeToolTip": "src\\Application\\DependencyInjectionApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:33:46.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Program.cs",
+              "RelativeToolTip": "src\\API\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:42:39.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomClaimTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\CustomClaimTypes.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Constants\\CustomClaimTypes.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\CustomClaimTypes.cs",
+              "RelativeToolTip": "src\\Domain\\Constants\\CustomClaimTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:10:42.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClaimsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Helpers\\Permission\\ClaimsHelper.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Helpers\\Permission\\ClaimsHelper.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Helpers\\Permission\\ClaimsHelper.cs",
+              "RelativeToolTip": "src\\Domain\\Helpers\\Permission\\ClaimsHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:11:32.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleClaimsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Helpers\\Permission\\RoleClaimsDto.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Helpers\\Permission\\RoleClaimsDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Helpers\\Permission\\RoleClaimsDto.cs",
+              "RelativeToolTip": "src\\Domain\\Helpers\\Permission\\RoleClaimsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:11:38.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\ResponseMessages.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Constants\\ResponseMessages.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\ResponseMessages.cs",
+              "RelativeToolTip": "src\\Domain\\Constants\\ResponseMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:10:44.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\Permissions.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Constants\\Permissions.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\Permissions.cs",
+              "RelativeToolTip": "src\\Domain\\Constants\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:35:45.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConstantValues.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\ConstantValues.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Constants\\ConstantValues.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\ConstantValues.cs",
+              "RelativeToolTip": "src\\Domain\\Constants\\ConstantValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:10:33.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HttpHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Helpers\\HttpHelper.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Helpers\\HttpHelper.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Helpers\\HttpHelper.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Helpers\\HttpHelper.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:59:42.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateAppUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Validators\\CreateAppUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Validators\\CreateAppUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Validators\\CreateAppUserCommandValidator.cs",
+              "RelativeToolTip": "src\\Application\\Validators\\CreateAppUserCommandValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:23:20.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LocalizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Services\\Domain\\LocalizationService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Services\\Domain\\LocalizationService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Services\\Domain\\LocalizationService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Services\\Domain\\LocalizationService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:21:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:41:03.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:17:46.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMapTo.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\IMapTo.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Mappings\\IMapTo.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\IMapTo.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Mappings\\IMapTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:46:07.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:46:10.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMapFrom.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Mappings\\IMapFrom.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Mappings\\IMapFrom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:45:53.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaginationController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Web\\PaginationController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\Web\\PaginationController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Web\\PaginationController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\Web\\PaginationController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:05:55.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaginationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:58:29.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Dtos\\AppUserDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Dtos\\AppUserDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Dtos\\AppUserDto.cs",
+              "RelativeToolTip": "src\\Application\\Dtos\\AppUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:33:44.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppUser.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\UserEntity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:49:05.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetPaginationQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\PaginationHandlers\\GetPaginationQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\PaginationHandlers\\GetPaginationQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\PaginationHandlers\\GetPaginationQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Handlers\\PaginationHandlers\\GetPaginationQueryHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:06:51.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Pagination\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Pagination\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Pagination\\PaginatedList.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Pagination\\PaginatedList.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:53:56.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Web\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\Web\\UserController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Web\\UserController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\Web\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:03:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaginatedListConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\PaginatedListConverter.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Mappings\\PaginatedListConverter.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\PaginatedListConverter.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Mappings\\PaginatedListConverter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:50:01.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\AppUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\AppUserRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\AppUserRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\AppUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:53:37.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAppUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\IAppUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Interfaces\\IAppUserRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\IAppUserRepository.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Interfaces\\IAppUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:51:15.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "src\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Application.csproj",
+              "RelativeToolTip": "src\\Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-28T15:22:42.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetPaginationQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\PaginationQueries\\GetPaginationQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\PaginationQueries\\GetPaginationQuery.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\PaginationQueries\\GetPaginationQuery.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Queries\\PaginationQueries\\GetPaginationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:01:25.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Domain.csproj",
+              "RelativeToolTip": "src\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T06:12:37.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateAppUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\UpdateAppUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\UpdateAppUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\UpdateAppUserCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\UpdateAppUserCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:50:58.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateAppUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\UpdateAppUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\UpdateAppUserCommand.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\UpdateAppUserCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\UpdateAppUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:50:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetAppUsersQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Results\\AppUserResults\\GetAppUsersQueryResult.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Results\\AppUserResults\\GetAppUsersQueryResult.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Results\\AppUserResults\\GetAppUsersQueryResult.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Results\\AppUserResults\\GetAppUsersQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:03:42.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetAppUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUserByIdQuery.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:42:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetAppUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUsersQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUsersQuery.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUsersQuery.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:04:42.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateAppUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Validators\\UpdateAppUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Validators\\UpdateAppUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Validators\\UpdateAppUserCommandValidator.cs",
+              "RelativeToolTip": "src\\Application\\Validators\\UpdateAppUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:39:34.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Results\\Result.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Results\\Result.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Results\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:09:56.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Results\\IResult.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Results\\IResult.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Results\\IResult.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Results\\IResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:13:10.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DeleteAppUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\DeleteAppUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\DeleteAppUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\DeleteAppUserCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\DeleteAppUserCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:03:23.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetAppUserByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUserByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUserByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUserByIdQueryHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:43:47.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetAppUsersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUsersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUsersQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUsersQueryHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:05:16.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginAppUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\LoginAppUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\LoginAppUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\LoginAppUserQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\LoginAppUserQueryHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:30:23.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginAppUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\LoginAppUserQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\LoginAppUserQuery.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\LoginAppUserQuery.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\LoginAppUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:59:17.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DeleteAppUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\DeleteAppUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\DeleteAppUserCommand.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\DeleteAppUserCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\DeleteAppUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:02:48.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateAppUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\CreateAppUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\CreateAppUserCommand.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\CreateAppUserCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\CreateAppUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:51:53.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RequestValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Behaviors\\RequestValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Behaviors\\RequestValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Behaviors\\RequestValidationBehavior.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Behaviors\\RequestValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:42:08.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppRole.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppRole.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\UserEntity\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:23:42.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BaseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\BaseDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\BaseDbContext.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\BaseDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Contexts\\BaseDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:44:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Base\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\Base\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Base\\BaseApiController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\Base\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:55:39.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RoleUser.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\RoleUser.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\RoleUser.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\RoleUser.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\UserEntity\\RoleUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:38:36.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20251124064027_init4.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251124064027_init4.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251124064027_init4.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251124064027_init4.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Migrations\\20251124064027_init4.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:40:27.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TestDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\TestDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContextFactory.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Contexts\\TestDbContextFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:37:12.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "JwtConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\Configuration\\JwtConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\Configuration\\JwtConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\Configuration\\JwtConfiguration.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\JWT\\Configuration\\JwtConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:46:59.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProdDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\ProdDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\ProdDbContext.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\ProdDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Contexts\\ProdDbContext.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:47:20.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SigningCredentialsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:13:43.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SecurityKeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:13:41.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\JwtHelper.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\JWT\\JwtHelper.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwD0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:44:23.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CustomExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Common\\CustomExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\API\\Common\\CustomExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Common\\CustomExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "src\\API\\Common\\CustomExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:43:31.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20251124070550_init5.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251124070550_init5.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251124070550_init5.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251124070550_init5.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Migrations\\20251124070550_init5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:05:50.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\appsettings.json",
+              "RelativeToolTip": "src\\API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T05:43:45.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T20:04:11.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T06:45:15.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BaseAuditedEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\BaseAuditedEntity.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\BaseAuditedEntity.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\BaseAuditedEntity.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Entities\\BaseAuditedEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:03:11.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ITokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\ITokenHelper.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\JWT\\ITokenHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:44:28.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RoleUserCommandsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\RoleUserHandlers\\RoleUserCommandsHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\RoleUserHandlers\\RoleUserCommandsHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\RoleUserHandlers\\RoleUserCommandsHandler.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Handlers\\RoleUserHandlers\\RoleUserCommandsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:54:30.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RoleUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\RoleUserCommands\\RoleUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\RoleUserCommands\\RoleUserCommand.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\RoleUserCommands\\RoleUserCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Commands\\RoleUserCommands\\RoleUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:52:48.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LoginAppUserResult.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Results\\AppUserResults\\LoginAppUserResult.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Results\\AppUserResults\\LoginAppUserResult.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Results\\AppUserResults\\LoginAppUserResult.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Mediator\\Results\\AppUserResults\\LoginAppUserResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:54:22.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:03:26.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-23T18:10:40.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PermissionPolicyProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Permission\\PermissionPolicyProvider.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\Permission\\PermissionPolicyProvider.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Permission\\PermissionPolicyProvider.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\Permission\\PermissionPolicyProvider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:16:21.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Encrypt.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Encryption\\Encrypt.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\Encryption\\Encrypt.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Encryption\\Encrypt.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\Encryption\\Encrypt.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAIBJwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:11:47.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\TokenOptions.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\TokenOptions.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\JWT\\TokenOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:46:55.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AccessToken.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\AccessToken.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\AccessToken.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\AccessToken.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\JWT\\AccessToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:46:57.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ISoftDelete.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\ISoftDelete.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\ISoftDelete.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\ISoftDelete.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Entities\\ISoftDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:03:38.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\IEntity.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Entities\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:03:34.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AuditedEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\AuditedEntity.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\AuditedEntity.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\AuditedEntity.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Entities\\AuditedEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:02:30.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20251121070815_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\TestDb\\20251121070815_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\TestDb\\20251121070815_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\TestDb\\20251121070815_InitialCreate.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Migrations\\TestDb\\20251121070815_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:08:15.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20251121071144_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\TestDb\\20251121071144_mig2.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\TestDb\\20251121071144_mig2.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\TestDb\\20251121071144_mig2.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Migrations\\TestDb\\20251121071144_mig2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:11:44.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AuditedEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\Configurations\\BaseConfiguration\\AuditedEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\BaseConfiguration\\AuditedEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\Configurations\\BaseConfiguration\\AuditedEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\BaseConfiguration\\AuditedEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:07:59.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "SwaggerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\Configuration\\SwaggerConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\Configuration\\SwaggerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\Configuration\\SwaggerConfiguration.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\JWT\\Configuration\\SwaggerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:47:04.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "PermissionAuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\Configuration\\PermissionAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\Configuration\\PermissionAuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\Configuration\\PermissionAuthorizationHandler.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\JWT\\Configuration\\PermissionAuthorizationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:47:01.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AtlSmsService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Services\\External\\AtlSmsService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Services\\External\\AtlSmsService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Services\\External\\AtlSmsService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Services\\External\\AtlSmsService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:21:50.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ILocalizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\ILocalizationService.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Interfaces\\ILocalizationService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\ILocalizationService.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Interfaces\\ILocalizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:55:11.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:45:27.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ISmsSenderService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Interfaces\\ISmsSenderService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Interfaces\\ISmsSenderService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Interfaces\\ISmsSenderService.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Interfaces\\ISmsSenderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:45:42.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ru.json",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Resources\\ru.json",
+              "RelativeDocumentMoniker": "src\\API\\Resources\\ru.json",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Resources\\ru.json",
+              "RelativeToolTip": "src\\API\\Resources\\ru.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T07:08:05.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "en.json",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Resources\\en.json",
+              "RelativeDocumentMoniker": "src\\API\\Resources\\en.json",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Resources\\en.json",
+              "RelativeToolTip": "src\\API\\Resources\\en.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T07:08:04.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "PermissionAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Filters\\PermissionAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "src\\API\\Filters\\PermissionAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Filters\\PermissionAuthorizeAttribute.cs",
+              "RelativeToolTip": "src\\API\\Filters\\PermissionAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:07:54.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "AuthorizeRolesAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Filters\\AuthorizeRolesAttribute.cs",
+              "RelativeDocumentMoniker": "src\\API\\Filters\\AuthorizeRolesAttribute.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Filters\\AuthorizeRolesAttribute.cs",
+              "RelativeToolTip": "src\\API\\Filters\\AuthorizeRolesAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:07:30.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Services\\Internal\\CustomerService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Services\\Internal\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Services\\Internal\\CustomerService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Services\\Internal\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:22:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "az.json",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Resources\\az.json",
+              "RelativeDocumentMoniker": "src\\API\\Resources\\az.json",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Resources\\az.json",
+              "RelativeToolTip": "src\\API\\Resources\\az.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T05:45:08.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "PermissionRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Permission\\PermissionRequirement.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Security\\Permission\\PermissionRequirement.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Permission\\PermissionRequirement.cs",
+              "RelativeToolTip": "src\\Domain\\Security\\Permission\\PermissionRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:17:35.874Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

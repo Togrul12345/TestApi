@@ -1,0 +1,139 @@
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Babek.Agamuradli\source\repos\Tender\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\someverything\Source\Repos\TenderAPI\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Rustam.Eyvazov\source\repos\telegram-bot-for-someone-main\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Rustam.Eyvazov\source\repos\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\rauf.gulmammadli\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Rustam.Eyvazov\Desktop\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Babek.Agamuradli\Downloads\venta-new-arc (3)\venta-new-arc\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

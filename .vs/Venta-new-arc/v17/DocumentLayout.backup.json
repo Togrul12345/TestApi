@@ -1,0 +1,810 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\resumes\\commands\\updateresumecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\resumes\\commands\\updateresumecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\api\\controllers\\web\\resumescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\web\\resumescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\attributevalues\\dtos\\updateattributevaluedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\attributevalues\\dtos\\updateattributevaluedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\domain\\entities\\resumeattributevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\resumeattributevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\domain\\constants\\responsemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\constants\\responsemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\resumes\\commands\\createresumecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\resumes\\commands\\createresumecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\attributevalues\\queries\\getbyattributeidattributevaluequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\attributevalues\\queries\\getbyattributeidattributevaluequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\domain\\common\\pagination\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\pagination\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\domain\\common\\pagination\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\pagination\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\attributevalues\\commands\\updateattributevaluecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\attributevalues\\commands\\updateattributevaluecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\api\\controllers\\web\\attributevaluescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\web\\attributevaluescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\attributevalues\\dtos\\getbyattributeidattributevaluedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\attributevalues\\dtos\\getbyattributeidattributevaluedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\domain\\entities\\attributevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\attributevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\domain\\entities\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\persistence\\configurations\\attributeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\configurations\\attributeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\attirbutes\\queries\\getbysectionidattributesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\attirbutes\\queries\\getbysectionidattributesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\sections\\commands\\createsectioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\sections\\commands\\createsectioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\sections\\validators\\createsectioncommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\sections\\validators\\createsectioncommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\attirbutes\\commands\\createattributecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\attirbutes\\commands\\createattributecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\steps\\commands\\createstepcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\steps\\commands\\createstepcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\persistence\\configurations\\attributevaluesetconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\configurations\\attributevaluesetconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\persistence\\configurations\\attributevalueconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\configurations\\attributevalueconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\persistence\\configurations\\attirbutesetconfiguratrion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\configurations\\attirbutesetconfiguratrion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\attirbutes\\commands\\updateattributecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\attirbutes\\commands\\updateattributecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\api\\controllers\\web\\attributescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\web\\attributescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\sections\\commands\\updatesectioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\sections\\commands\\updatesectioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\sections\\validators\\updatesectioncommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\sections\\validators\\updatesectioncommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\sections\\queries\\getallwithpaginationsectionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\sections\\queries\\getallwithpaginationsectionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\sections\\dtos\\getallwithpaginationsectionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\sections\\dtos\\getallwithpaginationsectionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\steps\\commands\\updatestepqueuecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\steps\\commands\\updatestepqueuecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\attirbutes\\commands\\changeattributestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\attirbutes\\commands\\changeattributestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\contexts\\tendertestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\contexts\\tendertestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\migrations\\ventadevdb\\20250925135801_sections_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\migrations\\ventadevdb\\20250925135801_sections_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\persistence\\configurations\\stepconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\configurations\\stepconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\persistence\\configurations\\sectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\configurations\\sectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\persistence\\configurations\\sectionsetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\configurations\\sectionsetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\infrastructure\\persistence\\configurations\\stepsetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\configurations\\stepsetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\steps\\queries\\getallwithpaginationstepscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\steps\\queries\\getallwithpaginationstepscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\steps\\commands\\updatestepcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\steps\\commands\\updatestepcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\steps\\dtos\\getbyidstepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\steps\\dtos\\getbyidstepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\steps\\queries\\getbyidstepquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\steps\\queries\\getbyidstepquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\attirbutes\\commands\\createattributequeuecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\attirbutes\\commands\\createattributequeuecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\api\\controllers\\web\\stepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\web\\stepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\sections\\dtos\\getbyidsectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\sections\\dtos\\getbyidsectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|c:\\users\\rustam.eyvazov\\desktop\\venta-new-arc\\src\\application\\features\\sections\\queries\\getbyidsectionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC5BD51-6F23-4B8A-82ED-8086CF9AF6EA}|src\\Application\\Application.csproj|solutionrelative:src\\application\\features\\sections\\queries\\getbyidsectionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResumesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\Controllers\\Web\\ResumesController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\Web\\ResumesController.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\Controllers\\Web\\ResumesController.cs*",
+              "RelativeToolTip": "src\\API\\Controllers\\Web\\ResumesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:18:35.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResumeAttributeValue.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Entities\\ResumeAttributeValue.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\ResumeAttributeValue.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Entities\\ResumeAttributeValue.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\ResumeAttributeValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:09:41.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetByAttributeIdAttributeValueDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\AttributeValues\\Dtos\\GetByAttributeIdAttributeValueDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\AttributeValues\\Dtos\\GetByAttributeIdAttributeValueDto.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\AttributeValues\\Dtos\\GetByAttributeIdAttributeValueDto.cs",
+              "RelativeToolTip": "src\\Application\\Features\\AttributeValues\\Dtos\\GetByAttributeIdAttributeValueDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:52:24.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetByAttributeIdAttributeValueQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\AttributeValues\\Queries\\GetByAttributeIdAttributeValueQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\AttributeValues\\Queries\\GetByAttributeIdAttributeValueQuery.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\AttributeValues\\Queries\\GetByAttributeIdAttributeValueQuery.cs",
+              "RelativeToolTip": "src\\Application\\Features\\AttributeValues\\Queries\\GetByAttributeIdAttributeValueQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:44:43.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateAttributeValueDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\AttributeValues\\Dtos\\UpdateAttributeValueDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\AttributeValues\\Dtos\\UpdateAttributeValueDto.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\AttributeValues\\Dtos\\UpdateAttributeValueDto.cs",
+              "RelativeToolTip": "src\\Application\\Features\\AttributeValues\\Dtos\\UpdateAttributeValueDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:01:10.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateAttributeValueCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\AttributeValues\\Commands\\UpdateAttributeValueCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\AttributeValues\\Commands\\UpdateAttributeValueCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\AttributeValues\\Commands\\UpdateAttributeValueCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\AttributeValues\\Commands\\UpdateAttributeValueCommand.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAawJUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:08:40.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateResumeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Resumes\\Commands\\UpdateResumeCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Resumes\\Commands\\UpdateResumeCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Resumes\\Commands\\UpdateResumeCommand.cs*",
+              "RelativeToolTip": "src\\Application\\Features\\Resumes\\Commands\\UpdateResumeCommand.cs*",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAywGgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:31:36.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateResumeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Resumes\\Commands\\CreateResumeCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Resumes\\Commands\\CreateResumeCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Resumes\\Commands\\CreateResumeCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Resumes\\Commands\\CreateResumeCommand.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAADwv0YBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:24:00.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Constants\\ResponseMessages.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Constants\\ResponseMessages.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Constants\\ResponseMessages.cs*",
+              "RelativeToolTip": "src\\Domain\\Constants\\ResponseMessages.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwEYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:37:47.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttributeValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\Controllers\\Web\\AttributeValuesController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\Web\\AttributeValuesController.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\Controllers\\Web\\AttributeValuesController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\Web\\AttributeValuesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB0AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:07:47.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Common\\Pagination\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Pagination\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Common\\Pagination\\PaginatedList.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Pagination\\PaginatedList.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:17:45.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:17:51.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttributeValue.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Entities\\AttributeValue.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\AttributeValue.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Entities\\AttributeValue.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\AttributeValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:47:00.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Attribute.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Entities\\Attribute.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Attribute.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Domain\\Entities\\Attribute.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Attribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:46:58.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateSectionCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Validators\\CreateSectionCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Sections\\Validators\\CreateSectionCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Validators\\CreateSectionCommandValidator.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Sections\\Validators\\CreateSectionCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:35:09.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateSectionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Commands\\CreateSectionCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Sections\\Commands\\CreateSectionCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Commands\\CreateSectionCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Sections\\Commands\\CreateSectionCommand.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAASwHoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:28:13.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateStepCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Commands\\CreateStepCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Steps\\Commands\\CreateStepCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Commands\\CreateStepCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Steps\\Commands\\CreateStepCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwEkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:59:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttributeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\AttributeConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\AttributeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\AttributeConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\AttributeConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:26:37.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AttributeValueSetConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\AttributeValueSetConfigration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\AttributeValueSetConfigration.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\AttributeValueSetConfigration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\AttributeValueSetConfigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:27:05.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetBySectionIdAttributesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Queries\\GetBySectionIdAttributesQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Attirbutes\\Queries\\GetBySectionIdAttributesQuery.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Queries\\GetBySectionIdAttributesQuery.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Attirbutes\\Queries\\GetBySectionIdAttributesQuery.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:06:08.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AttributeValueConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\AttributeValueConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\AttributeValueConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\AttributeValueConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\AttributeValueConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:27:00.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateAttributeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Commands\\CreateAttributeCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Attirbutes\\Commands\\CreateAttributeCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Commands\\CreateAttributeCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Attirbutes\\Commands\\CreateAttributeCommand.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:33:33.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AttirbuteSetConfiguratrion.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\AttirbuteSetConfiguratrion.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\AttirbuteSetConfiguratrion.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\AttirbuteSetConfiguratrion.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\AttirbuteSetConfiguratrion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:26:51.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AttributesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\Controllers\\Web\\AttributesController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\Web\\AttributesController.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\Controllers\\Web\\AttributesController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\Web\\AttributesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswE4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:51:48.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateAttributeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Commands\\UpdateAttributeCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Attirbutes\\Commands\\UpdateAttributeCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Commands\\UpdateAttributeCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Attirbutes\\Commands\\UpdateAttributeCommand.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:52:09.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateSectionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Commands\\UpdateSectionCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Sections\\Commands\\UpdateSectionCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Commands\\UpdateSectionCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Sections\\Commands\\UpdateSectionCommand.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:45:30.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateSectionCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Validators\\UpdateSectionCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Sections\\Validators\\UpdateSectionCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Validators\\UpdateSectionCommandValidator.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Sections\\Validators\\UpdateSectionCommandValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:53:47.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetAllWithPaginationSectionsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Queries\\GetAllWithPaginationSectionsQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Sections\\Queries\\GetAllWithPaginationSectionsQuery.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Queries\\GetAllWithPaginationSectionsQuery.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Sections\\Queries\\GetAllWithPaginationSectionsQuery.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:49:48.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetAllWithPaginationSectionsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Dtos\\GetAllWithPaginationSectionsDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Sections\\Dtos\\GetAllWithPaginationSectionsDto.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Dtos\\GetAllWithPaginationSectionsDto.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Sections\\Dtos\\GetAllWithPaginationSectionsDto.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIA+wDoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:51:00.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateStepQueueCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Commands\\UpdateStepQueueCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Steps\\Commands\\UpdateStepQueueCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Commands\\UpdateStepQueueCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Steps\\Commands\\UpdateStepQueueCommand.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:33:50.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChangeAttributeStatusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Commands\\ChangeAttributeStatusCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Attirbutes\\Commands\\ChangeAttributeStatusCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Commands\\ChangeAttributeStatusCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Attirbutes\\Commands\\ChangeAttributeStatusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:33:32.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\appsettings.json",
+              "RelativeToolTip": "src\\API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T13:46:48.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T13:58:31.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\API.csproj",
+              "RelativeDocumentMoniker": "src\\API\\API.csproj",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\API.csproj",
+              "RelativeToolTip": "src\\API\\API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T15:38:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TenderTestDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Contexts\\TenderTestDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\TenderTestDbContext.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Contexts\\TenderTestDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Contexts\\TenderTestDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwEEAAADHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:40:30.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250925135801_Sections_Updated.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Migrations\\VentaDevDb\\20250925135801_Sections_Updated.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\VentaDevDb\\20250925135801_Sections_Updated.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Migrations\\VentaDevDb\\20250925135801_Sections_Updated.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Migrations\\VentaDevDb\\20250925135801_Sections_Updated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:58:01.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:37:32.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StepSetConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\StepSetConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\StepSetConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\StepSetConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\StepSetConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:45:58.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SectionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\SectionConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\SectionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\SectionConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\SectionConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:45:49.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SectionSetConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\SectionSetConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\SectionSetConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\SectionSetConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\SectionSetConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvyIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:45:48.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetAllWithPaginationStepsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Queries\\GetAllWithPaginationStepsCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Steps\\Queries\\GetAllWithPaginationStepsCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Queries\\GetAllWithPaginationStepsCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Steps\\Queries\\GetAllWithPaginationStepsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:42:29.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StepConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\StepConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\StepConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Infrastructure\\Persistence\\Configurations\\StepConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\StepConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:07:01.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateStepCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Commands\\UpdateStepCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Steps\\Commands\\UpdateStepCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Commands\\UpdateStepCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Steps\\Commands\\UpdateStepCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:53:53.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetByIdStepDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Dtos\\GetByIdStepDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Steps\\Dtos\\GetByIdStepDto.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Dtos\\GetByIdStepDto.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Steps\\Dtos\\GetByIdStepDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:14:20.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetByIdStepQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Queries\\GetByIdStepQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Steps\\Queries\\GetByIdStepQuery.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Steps\\Queries\\GetByIdStepQuery.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Steps\\Queries\\GetByIdStepQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:14:14.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateAttributeQueueCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Commands\\CreateAttributeQueueCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Attirbutes\\Commands\\CreateAttributeQueueCommand.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Attirbutes\\Commands\\CreateAttributeQueueCommand.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Attirbutes\\Commands\\CreateAttributeQueueCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:47:31.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StepsController.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\Controllers\\Web\\StepsController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\Web\\StepsController.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\API\\Controllers\\Web\\StepsController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\Web\\StepsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:44:41.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetByIdSectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Dtos\\GetByIdSectionDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Sections\\Dtos\\GetByIdSectionDto.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Dtos\\GetByIdSectionDto.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Sections\\Dtos\\GetByIdSectionDto.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:07:35.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetByIdSectionQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Queries\\GetByIdSectionQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Features\\Sections\\Queries\\GetByIdSectionQuery.cs",
+              "ToolTip": "C:\\Users\\Rustam.Eyvazov\\Desktop\\venta-new-arc\\src\\Application\\Features\\Sections\\Queries\\GetByIdSectionQuery.cs",
+              "RelativeToolTip": "src\\Application\\Features\\Sections\\Queries\\GetByIdSectionQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:07:31.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
