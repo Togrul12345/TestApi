@@ -97,3 +97,4 @@ C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.
 C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json

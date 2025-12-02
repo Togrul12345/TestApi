@@ -3,6 +3,7 @@ using Application.Features.Mediator.Commands.AppUserCommands;
 using Domain.Common.Entities;
 using Domain.Common.Interfaces;
 using Domain.Common.Results;
+using Domain.Constants;
 using Domain.Entities.UserEntity;
 using MediatR;
 using System;
@@ -14,21 +15,24 @@ using System.Threading.Tasks;
 namespace Application.Features.Mediator.Handlers.AppUserHandlers
 {
     public class UpdateAppUserCommandHandler : IRequestHandler<UpdateAppUserCommand, IResult<DomainSuccess<AppUserDto>, DomainError>>
-    {private readonly IRepository<AppUser, int> _repository;
+    {
+        private readonly IRepository<AppUser, int> _repository;
+        private readonly ILocalizationService _localizationService;
 
-        public UpdateAppUserCommandHandler(IRepository<AppUser, int> repository)
+        public UpdateAppUserCommandHandler(IRepository<AppUser, int> repository, ILocalizationService localizationService)
         {
             _repository = repository;
+            _localizationService = localizationService;
         }
 
         public async Task<IResult<DomainSuccess<AppUserDto>, DomainError>> Handle(UpdateAppUserCommand request, CancellationToken cancellationToken)
         {
-            var user=_repository.GetAllIncluding(u => u.Id == request.Id).FirstOrDefault();
-            if(user == null)
+            var user = _repository.GetAllIncluding(u => u.Id == request.Id).FirstOrDefault();
+            if (user == null)
             {
-                return Result.Fail<AppUserDto>(DomainError.NotFound("User not found"));
+                return Result.Fail<AppUserDto>(DomainError.NotFound(_localizationService[ResponseMessages.ExampleNotFound]));
             }
-            user.Id = request.Id;
+           
             user.FirstName = request.FirstName;
             user.LastName = request.LastName;
             user.UserName = request.UserName;
@@ -38,13 +42,13 @@ namespace Application.Features.Mediator.Handlers.AppUserHandlers
             await _repository.CommitAsync(cancellationToken);
             return Result.Success(DomainSuccess<AppUserDto>.OK(new AppUserDto
             {
-               
+                Id=user.Id,
                 FirstName = user.FirstName,
                 LastName = user.LastName,
                 UserName = user.UserName,
                 Gmail = user.Gmail,
                 PasswordHash = user.PasswordHash
-            }, "User updated successfully"));
+            }, _localizationService[ResponseMessages.ExampleUpdatedSuccessfully]));
         }
 
         //public async Task Handle(UpdateAppUserCommand request, CancellationToken cancellationToken)

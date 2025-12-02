@@ -3,6 +3,7 @@ using Application.Features.Mediator.Commands.AppUserCommands;
 using Domain.Common.Entities;
 using Domain.Common.Interfaces;
 using Domain.Common.Results;
+using Domain.Constants;
 using Domain.Entities.UserEntity;
 using MediatR;
 using System;
@@ -16,10 +17,12 @@ namespace Application.Features.Mediator.Handlers.AppUserHandlers
     public class DeleteAppUserCommandHandler : IRequestHandler<DeleteAppUserCommand, Domain.Common.Results.IResult<DomainSuccess<int>, DomainError>>
     {
         private readonly IRepository<AppUser, int> _repository;
+        private readonly ILocalizationService _localizationService;
 
-        public DeleteAppUserCommandHandler(IRepository<AppUser, int> repository)
+        public DeleteAppUserCommandHandler(IRepository<AppUser, int> repository, ILocalizationService localizationService)
         {
             _repository = repository;
+            _localizationService = localizationService;
         }
 
         public async Task<IResult<DomainSuccess<int>, DomainError>> Handle(DeleteAppUserCommand request, CancellationToken cancellationToken)
@@ -27,11 +30,11 @@ namespace Application.Features.Mediator.Handlers.AppUserHandlers
             var user = await _repository.GetSingleAsync(a => a.Id == request.Id);
             if (user == null)
             {
-                return Result.Fail<int>(DomainError.NotFound($"User with Id {request.Id} not found."));
+                return Result.Fail<int>(DomainError.NotFound(_localizationService[ResponseMessages.ExampleNotFound]));
             }
             await _repository.DeleteAsync(user);
             await _repository.CommitAsync(cancellationToken);
-            return Result.Success(DomainSuccess<int>.OK(request.Id, "Deleted"));
+            return Result.Success(DomainSuccess<int>.OK(request.Id, _localizationService[ResponseMessages.ExampleDeletedSuccessfully]));
         }
     }
 }

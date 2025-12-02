@@ -1,5 +1,7 @@
-﻿using AutoMapper;
+﻿using Application.Dtos;
+using AutoMapper;
 using Domain.Common.Pagionation;
+using Domain.Entities.UserEntity;
 using System.Reflection;
 
 namespace Application.Common.Mappings
@@ -11,6 +13,7 @@ namespace Application.Common.Mappings
             ApplyMappingsFromAssembly(Assembly.GetExecutingAssembly());
             CreateMap(typeof(PaginatedList<>), typeof(PaginatedList<>))
            .ConvertUsing(typeof(PaginatedListConverter<,>));
+            CreateMap<AppUserDto, AppUser>().ForMember(a => a.RoleUsers, opt => opt.Ignore());
         }
 
         private void ApplyMappingsFromAssembly(Assembly assembly)

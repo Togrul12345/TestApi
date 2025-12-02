@@ -121,3 +121,4 @@ C:\Users\Togrul\OneDrive\Documents\test\test\src\Application\obj\Debug\net8.0\Ap
 C:\Users\Togrul\OneDrive\Documents\test\test\src\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\Togrul\OneDrive\Documents\test\test\src\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\Togrul\OneDrive\Documents\test\test\src\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Application\obj\Debug\net8.0\Application.sourcelink.json

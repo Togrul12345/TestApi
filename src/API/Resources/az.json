@@ -1,2 +1,16 @@
 ﻿{
+  "CreateSuccess": "Məlumat uğurla yaradıldı.",
+  "CreateFailed": "Məlumat yaradılarkən xəta baş verdi.",
+
+  "UpdateSuccess": "Məlumat uğurla yeniləndi.",
+  "UpdateFailed": "Məlumat yenilənərkən xəta baş verdi.",
+
+  "DeleteSuccess": "Məlumat uğurla silindi.",
+  "DeleteFailed": "Məlumat silinərkən xəta baş verdi.",
+
+  "NotFound": "Məlumat tapılmadı.",
+  "ValidationError": "Daxil etdiyiniz məlumat düzgün deyil.",
+
+  "FoundSuccess": "Məlumat uğurla tapıldı.",
+  "LoginSuccess": "Uğurla daxil olundu."
 }

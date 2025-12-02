@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Application.Dtos
 {
-    public class AppUserDto:IMapFrom<AppUser>
+    public class AppUserDto:IMapFrom<AppUser>,IMapTo<AppUser>
     {
         public int Id { get; set; }
         public string FirstName { get; set; }

@@ -137,3 +137,4 @@ C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0
 C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

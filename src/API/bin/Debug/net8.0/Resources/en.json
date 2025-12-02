@@ -1,2 +1,15 @@
 ﻿{
+  "CreateSuccess": "Data has been successfully created.",
+  "CreateFailed": "An error occurred while creating the data.",
+
+  "UpdateSuccess": "Data has been successfully updated.",
+  "UpdateFailed": "An error occurred while updating the data.",
+
+  "DeleteSuccess": "Data has been successfully deleted.",
+  "DeleteFailed": "An error occurred while deleting the data.",
+
+  "NotFound": "Data not found.",
+  "ValidationError": "The provided data is invalid.",
+  "FoundSuccess": "Data has been successfully found.",
+  "LoginSuccess": "Successfully logged in."
 }
