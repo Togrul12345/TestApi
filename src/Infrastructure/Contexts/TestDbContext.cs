@@ -1,5 +1,6 @@
 ﻿using Domain.Common.Entities;
 using Domain.Common.Utility;
+using Domain.Entities.ChatEntity;
 using Domain.Entities.UserEntity;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -45,9 +46,18 @@ public class TestDbContext : BaseDbContext
     #region OnModelCreating
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        modelBuilder.Entity<ChatUser>()
+       .HasKey(cu => new { cu.ChatId, cu.ParticipantId });
 
-        base.OnModelCreating(modelBuilder);
+        modelBuilder.Entity<ChatUser>()
+            .HasOne(cu => cu.Chat)
+            .WithMany(c => c.ChatUsers)
+            .HasForeignKey(cu => cu.ChatId);
+
+        modelBuilder.Entity<ChatUser>()
+            .HasOne(cu => cu.Participant)
+            .WithMany(c=>c.ChatUsers) // 🔥 User chat-i bilmir
+            .HasForeignKey(cu => cu.ParticipantId);
     }
     
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

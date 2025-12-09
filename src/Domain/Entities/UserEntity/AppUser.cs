@@ -1,4 +1,5 @@
 ﻿using Domain.Common.Entities;
+using Domain.Entities.ChatEntity;
 using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
@@ -17,5 +18,6 @@ namespace Domain.Entities.UserEntity
         public string Gmail { get; set; }
         public string PasswordHash { get; set; }
         public List<RoleUser> RoleUsers { get; set; }
+        public List<ChatUser> ChatUsers { get; set; }
     }
 }
