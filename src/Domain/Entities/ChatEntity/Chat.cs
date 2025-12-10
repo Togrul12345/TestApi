@@ -14,7 +14,7 @@ namespace Domain.Entities.ChatEntity
         public int ChatId { get; set; }
         public string Avatar { get; set; }
         public string FoneImg { get; set; }
-        public List<ChatUser> ChatUsers { get; set; }
+        public List<AppUser> Participants { get; set; }
         public List<Message> Messages { get; set; }
     }
 }

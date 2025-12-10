@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\useradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\useradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\messageentity\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\messageentity\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\chatentity\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\chatentity\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\messageentity\\voicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\messageentity\\voicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\messageentity\\videomessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\messageentity\\videomessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\messageentity\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\messageentity\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\messageentity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\messageentity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\messageentity\\voicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\messageentity\\voicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\messageentity\\filemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\messageentity\\filemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\chatentity\\chatuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\chatentity\\chatuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\contexts\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\contexts\\proddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\contexts\\proddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\userentity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\userentity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\common\\entities\\baseauditedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -458,46 +458,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VideoMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
-              "RelativeToolTip": "src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\Chat.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\Chat.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\Chat.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\ChatEntity\\Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T18:18:25.839Z",
+              "WhenOpened": "2025-12-09T16:38:08.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Image.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\Image.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\Image.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\Image.cs",
-              "RelativeToolTip": "src\\Domain\\Entities\\MessageEntity\\Image.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppUser.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\UserEntity\\AppUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T18:16:11.578Z",
+              "WhenOpened": "2025-11-21T05:49:05.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VoiceMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
-              "RelativeToolTip": "src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T18:13:01.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FileMessage.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\FileMessage.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\FileMessage.cs",
@@ -510,72 +497,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\Message.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\Message.cs",
               "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\Message.cs",
               "RelativeToolTip": "src\\Domain\\Entities\\MessageEntity\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T18:10:21.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ChatUser.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\ChatUser.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\ChatUser.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\ChatUser.cs",
-              "RelativeToolTip": "src\\Domain\\Entities\\ChatEntity\\ChatUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\Image.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\Image.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\Image.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\MessageEntity\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T16:50:02.296Z",
+              "WhenOpened": "2025-12-09T18:16:11.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Chat.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\Chat.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\Chat.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\Chat.cs",
-              "RelativeToolTip": "src\\Domain\\Entities\\ChatEntity\\Chat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "VideoMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T16:38:08.521Z",
+              "WhenOpened": "2025-12-09T18:18:25.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoiceMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:13:01.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppUser.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppUser.cs",
-              "RelativeToolTip": "src\\Domain\\Entities\\UserEntity\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Title": "UserAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\UserAdmin.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\UserAdmin.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\UserAdmin.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\UserEntity\\UserAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T05:49:05.127Z",
+              "WhenOpened": "2025-12-10T14:28:23.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TestDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\TestDbContext.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContext.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Contexts\\TestDbContext.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAkAAAAAAAAAA==",
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppRole.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppRole.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\UserEntity\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T10:47:27.409Z",
+              "WhenOpened": "2025-11-23T18:23:42.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "RoleUser.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\RoleUser.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\RoleUser.cs",
@@ -589,6 +589,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "TestDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\TestDbContext.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Contexts\\TestDbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:47:27.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ProdDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\ProdDbContext.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\ProdDbContext.cs",
@@ -596,12 +609,11 @@
               "RelativeToolTip": "src\\Infrastructure\\Contexts\\ProdDbContext.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAAAuwBgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T10:47:20.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T10:47:20.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AuditedEntityConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\Configurations\\BaseConfiguration\\AuditedEntityConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\BaseConfiguration\\AuditedEntityConfiguration.cs",
@@ -609,21 +621,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Persistence\\Configurations\\BaseConfiguration\\AuditedEntityConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T16:07:59.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppRole.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppRole.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\AppRole.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppRole.cs",
-              "RelativeToolTip": "src\\Domain\\Entities\\UserEntity\\AppRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T18:23:42.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T16:07:59.016Z"
             },
             {
               "$type": "Document",
@@ -635,8 +633,7 @@
               "RelativeToolTip": "src\\Domain\\Common\\Entities\\BaseAuditedEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:03:11.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T06:03:11.789Z"
             },
             {
               "$type": "Document",
@@ -648,8 +645,7 @@
               "RelativeToolTip": "src\\Domain\\Enums\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T17:38:12.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T17:38:12.008Z"
             },
             {
               "$type": "Document",
@@ -661,8 +657,7 @@
               "RelativeToolTip": "src\\Domain\\Constants\\CustomClaimTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:10:42.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T06:10:42.613Z"
             },
             {
               "$type": "Document",
@@ -674,8 +669,7 @@
               "RelativeToolTip": "src\\Domain\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:17:46.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T06:17:46.154Z"
             },
             {
               "$type": "Document",
@@ -687,8 +681,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Services\\Domain\\LocalizationService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:21:25.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T06:21:25.049Z"
             },
             {
               "$type": "Document",
