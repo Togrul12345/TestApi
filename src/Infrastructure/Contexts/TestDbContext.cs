@@ -1,6 +1,7 @@
 ﻿using Domain.Common.Entities;
 using Domain.Common.Utility;
 using Domain.Entities.ChatEntity;
+using Domain.Entities.MessageEntity;
 using Domain.Entities.UserEntity;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -46,18 +47,36 @@ public class TestDbContext : BaseDbContext
     #region OnModelCreating
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<ChatUser>()
-       .HasKey(cu => new { cu.ChatId, cu.ParticipantId });
-
-        modelBuilder.Entity<ChatUser>()
-            .HasOne(cu => cu.Chat)
-            .WithMany(c => c.ChatUsers)
-            .HasForeignKey(cu => cu.ChatId);
-
-        modelBuilder.Entity<ChatUser>()
-            .HasOne(cu => cu.Participant)
-            .WithMany(c=>c.ChatUsers) // 🔥 User chat-i bilmir
-            .HasForeignKey(cu => cu.ParticipantId);
+        modelBuilder.Entity<Message>(entity =>
+        {
+            entity.HasOne(a => a.Sender)
+            .WithMany(a => a.SentMessages)
+            .HasForeignKey(a => a.SenderId)
+            .OnDelete(DeleteBehavior.Restrict);
+            entity.HasOne(a => a.Receiver).
+            WithMany(a => a.ReceivedMessages).
+            HasForeignKey(a => a.ReceiverId)
+            .OnDelete(DeleteBehavior.Restrict);
+        });
+        modelBuilder.Entity<UserAdmin>(entity =>
+        {
+            entity.HasOne(a => a.Participant).
+            WithMany(a => a.ParticipantUserAdmins)
+            .HasForeignKey(a => a.ParticipantId)
+            .OnDelete(DeleteBehavior.Restrict);
+            entity.HasOne(a => a.Admin).
+            WithMany(a => a.AdminUserAdmins).
+            HasForeignKey(a => a.AdminId)
+            .OnDelete(DeleteBehavior.Restrict);
+        });
+        modelBuilder.Entity<Chat>(entity =>
+        {
+           
+            entity.HasOne(a => a.SuperAdmin)
+            .WithMany(a => a.ChatsOfSuperAdmin)
+            .HasForeignKey(a => a.SuperAdminId)
+            .OnDelete(DeleteBehavior.Restrict);
+        });
     }
     
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -78,6 +97,14 @@ public class TestDbContext : BaseDbContext
     public DbSet<AppUser> AppUsers { get; set; }
     public DbSet<AppRole> AppRoles { get; set; }
     public DbSet<RoleUser> RoleUsers { get; set; }
+    public DbSet<Chat> Chats { get; set; }
+    public DbSet<FileMessage> FileMessages { get; set; }
+    public DbSet<Image> Images { get; set; }
+    public DbSet<Message> Messages { get; set; }
+    public DbSet<VideoMessage> VideoMessages { get; set; }
+    public DbSet<VoiceMessage> VoiceMessages { get; set; }
+    public DbSet<UserAdmin> UserAdmins { get; set; }
+    public DbSet<ChatAdmin> ChatAdmins { get; set; }
     #region Configure Global Filters
     protected void ConfigureGlobalFilters<TEntity>(ModelBuilder modelBuilder, IMutableEntityType entityType) where TEntity : class
     {

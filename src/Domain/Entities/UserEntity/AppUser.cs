@@ -18,11 +18,14 @@ namespace Domain.Entities.UserEntity
         public string UserName { get; set; }
         public string Gmail { get; set; }
         public string PasswordHash { get; set; }
-        public List<RoleUser> RoleUsers { get; set; }
-        public int ChatId { get; set; }
-        public Chat Chat { get; set; }
-        public List<UserAdmin> UserAdmins { get; set; }
-        public List<Message> SentMessages { get; set; }
-        public List<Message> ReceivedMessages { get; set; }
+        public virtual List<RoleUser> RoleUsers { get; set; }
+      
+        public virtual List<UserAdmin> AdminUserAdmins { get; set; }
+        public virtual List<UserAdmin> ParticipantUserAdmins { get; set; }
+        public virtual List<Message> SentMessages { get; set; }
+        public virtual List<Message> ReceivedMessages { get; set; }
+        public virtual List<Chat> ChatsOfSuperAdmin { get; set; }
+        
+        public virtual List<ChatUser> ChatUsers { get; set; }
     }
 }

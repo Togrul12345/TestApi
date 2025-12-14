@@ -10,6 +10,6 @@ namespace Domain.Entities.UserEntity
     public class AppRole:BaseAuditedEntity<int>
     {
         public string RoleName { get; set; }
-        public List<RoleUser> RoleUsers { get; set; }
+        public virtual List<RoleUser> RoleUsers { get; set; }
     }
 }

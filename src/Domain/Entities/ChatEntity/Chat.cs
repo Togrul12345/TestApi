@@ -11,10 +11,14 @@ namespace Domain.Entities.ChatEntity
 {
     public class Chat:BaseAuditedEntity<int>
     {
-        public int ChatId { get; set; }
+   
         public string Avatar { get; set; }
         public string FoneImg { get; set; }
-        public List<AppUser> Participants { get; set; }
-        public List<Message> Messages { get; set; }
+        public int? SuperAdminId { get; set; }
+        public virtual AppUser? SuperAdmin { get; set; }
+       
+        
+        public virtual List<Message> Messages { get; set; }
+        public virtual List<ChatUser> ChatUsers { get; set; }
     }
 }

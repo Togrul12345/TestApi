@@ -29,7 +29,7 @@
 
   <ItemGroup>
     <Folder Include="Controllers\Mobile\" />
-    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\uploads\" />
   </ItemGroup>
 
 </Project>

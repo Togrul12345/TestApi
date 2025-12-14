@@ -1261,3 +1261,5 @@ C:\Users\Togrul\OneDrive\Documents\test\test\src\API\obj\Debug\net8.0\API.pdb
 C:\Users\Togrul\OneDrive\Documents\test\test\src\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\Togrul\OneDrive\Documents\test\test\src\API\obj\Debug\net8.0\ref\API.dll
 C:\Users\Togrul\OneDrive\Documents\test\test\src\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\Togrul\OneDrive\Documents\test\test\src\API\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Togrul\OneDrive\Documents\test\test\src\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll

@@ -8,6 +8,6 @@ namespace Domain.Entities.MessageEntity
 {
     public class VoiceMessage : Message
     {
-        public int DurationInSeconds { get; set; }
+        
     }
 }

@@ -9,9 +9,9 @@ namespace Domain.Entities.UserEntity
 {
     public class RoleUser:BaseAuditedEntity<int>
     {
-        public AppUser AppUser { get; set; }
+        public virtual AppUser AppUser { get; set; }
         public int AppUserId { get; set; }
-        public AppRole AppRole { get; set; }
+        public virtual AppRole AppRole { get; set; }
         public int AppRoleId { get; set; }
     }
 }

@@ -18,7 +18,9 @@ namespace Infrastructure
             if (env.IsDevelopment())
                 services.AddDbContext<BaseDbContext,TestDbContext>(options =>
                 {
+                    options.UseLazyLoadingProxies();
                     options.UseSqlServer(configuration.GetConnectionString("Default"));
+                    
                 });
 
             services.AddDbContext<TestDbContext>(options =>

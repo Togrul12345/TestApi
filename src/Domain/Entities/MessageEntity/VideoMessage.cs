@@ -8,6 +8,6 @@ namespace Domain.Entities.MessageEntity
 {
     public class VideoMessage:Message
     {
-        public int ResolutionHeight { get; set; }
+       
     }
 }
