@@ -6,6 +6,7 @@ using Domain.Common.Interfaces;
 using Domain.Entities.UserEntity;
 using Infrastructure.Contexts;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -13,6 +14,7 @@ namespace API.Controllers.Web
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(Roles = "Owner")]
     public class UserController : BaseApiController //Burda BaseApiControlleri ishlede bilersiz onda mediatoru burda cagirmaq ehtiyaci olmayacaq
     {
        

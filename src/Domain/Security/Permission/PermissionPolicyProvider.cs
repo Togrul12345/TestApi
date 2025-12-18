@@ -14,7 +14,7 @@ namespace Domain.Security.Permission
 
         public Task<AuthorizationPolicy> GetDefaultPolicyAsync()
         {
-            return Task.FromResult<AuthorizationPolicy>(null);
+            return FallbackPolicyProvider.GetDefaultPolicyAsync();
         }
 
         public Task<AuthorizationPolicy> GetPolicyAsync(string policyName)

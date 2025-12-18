@@ -32,6 +32,24 @@ public static class JwtConfiguration
                  ValidIssuer = configuration["TokenOptions:Issuer"],
                  IssuerSigningKey = SecurityKeyHelper.CreateSecurityKey(configuration["TokenOptions:SecurityKey"]!)
              };
+             options.Events = new JwtBearerEvents
+             {
+                 OnMessageReceived = context =>
+                 {
+                     var accessToken = context.Request.Query["access_token"];
+
+                     // yalnız SignalR hub üçün
+                     var path = context.HttpContext.Request.Path;
+                     if (!string.IsNullOrEmpty(accessToken)
+                         && path.StartsWithSegments("/ChatHub"))
+                     {
+                         context.Token = accessToken;
+                     }
+
+                     return Task.CompletedTask;
+                 }
+             };
+
          });
     }
 }

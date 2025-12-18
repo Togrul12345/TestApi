@@ -1,4 +1,5 @@
 using API.Common;
+using API.Hubs;
 using Application;
 using Application.Common.Mappings;
 using Domain;
@@ -10,6 +11,7 @@ using FluentValidation;
 using FluentValidation.AspNetCore;
 using Infrastructure;
 using Infrastructure.Contexts;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -17,7 +19,14 @@ using System.Globalization;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(7097); // HTTP
+    options.ListenAnyIP(7294, listenOptions => // HTTPS
+    {
+        listenOptions.UseHttps();
+    });
+});
 // Controllers + JSON
 builder.Services
     .AddControllers()
@@ -58,13 +67,13 @@ builder.Services.AddValidatorsFromAssembly(typeof(DependencyInjectionApplication
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 // CORS
-builder.Services.AddCors(o => o.AddPolicy("CorsPolicy", policy =>
+builder.Services.AddCors(opt => opt.AddDefaultPolicy(policy =>
 {
-    policy.AllowAnyOrigin()
+    policy.AllowAnyHeader()
           .AllowAnyMethod()
-          .AllowAnyHeader();
+          .AllowCredentials()
+          .SetIsOriginAllowed(origin => true);
 }));
-
 #region Swagger
 builder.Services.AddSwaggerGen(opt =>
 {
@@ -94,15 +103,23 @@ builder.Services.AddSwaggerGen(opt =>
     });
 });
 #endregion
-
+builder.Services.AddSignalR();
 // Authorization
-builder.Services.AddAuthorization();
+builder.Services.AddAuthorization(options =>
+{
+    // Default policy olmadýðý üçün null error yaranýr
+    options.FallbackPolicy = new AuthorizationPolicyBuilder()
+        .RequireAuthenticatedUser()
+        .Build();
+});
+
 
 // Others
 builder.Services.AddHealthChecks();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+builder.Services.AddHttpClient();
 
 var app = builder.Build();
 
@@ -115,9 +132,11 @@ else
 {
     app.UseHsts();
 }
-
 // CORS
-app.UseCors("CorsPolicy");
+app.UseCors();
+// Routing, HTTPS, Static Files
+app.UseRouting();
+
 
 // Custom exception handler
 app.UseCustomExceptionHandler();
@@ -128,8 +147,7 @@ app.UseRequestLocalization(localizationOptions);
 // Health checks
 app.UseHealthChecks("/health");
 
-// Routing, HTTPS, Static Files
-app.UseRouting();
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
@@ -138,12 +156,14 @@ app.UseSwagger();
 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Test API V1"));
 
 // Authorization
+app.UseAuthentication();
 app.UseAuthorization();
+
 
 // Endpoints
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllers();
 });
-
+app.MapHub<ChatHub>("/ChatHub");
 app.Run();

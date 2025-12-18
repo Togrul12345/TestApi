@@ -33,7 +33,8 @@ namespace Application.Features.Mediator.Handlers.ChatHandlers
             var chat = new Chat
             {
                 Avatar = request.Avatar,
-                FoneImg=request.FoneImg
+                FoneImg=request.FoneImg,
+                CreatedDate = request.CreateAt
             };
             await _chatRepository.AddAsync(chat);
            await _chatRepository.CommitAsync(cancellationToken);

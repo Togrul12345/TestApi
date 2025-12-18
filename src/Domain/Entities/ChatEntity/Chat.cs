@@ -12,8 +12,8 @@ namespace Domain.Entities.ChatEntity
     public class Chat:BaseAuditedEntity<int>
     {
    
-        public string Avatar { get; set; }
-        public string FoneImg { get; set; }
+        public string? Avatar { get; set; }
+        public string? FoneImg { get; set; }
         public int? SuperAdminId { get; set; }
         public virtual AppUser? SuperAdmin { get; set; }
        

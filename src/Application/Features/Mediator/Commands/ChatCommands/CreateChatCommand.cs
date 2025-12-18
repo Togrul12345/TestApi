@@ -14,5 +14,6 @@ namespace Application.Features.Mediator.Commands.ChatCommands
     {
         public string Avatar { get; set; }
         public string FoneImg { get; set; }
+        public DateTime CreateAt { get; set; }
     }
 }

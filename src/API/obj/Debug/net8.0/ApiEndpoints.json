@@ -211,6 +211,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "API.Controllers.Web.ChatsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Chats/GetAllChats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "API.Controllers.Web.MessagesController",
     "Method": "Update",
     "RelativePath": "api/Messages/{id}",

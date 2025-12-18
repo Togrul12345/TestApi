@@ -15,5 +15,6 @@ namespace Domain.Entities.ChatEntity
         public virtual Chat Chat { get; set; }
         public int  ParticipantId { get; set; }
         public virtual AppUser Participant { get; set; }
+       
     }
 }

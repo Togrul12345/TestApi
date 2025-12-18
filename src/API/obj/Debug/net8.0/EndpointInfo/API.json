@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Chats/GetAllChats": {
+      "get": {
+        "tags": [
+          "Chats"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Chats": {
       "get": {
         "tags": [
@@ -698,6 +710,10 @@
           "foneImg": {
             "type": "string",
             "nullable": true
+          },
+          "createAt": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false

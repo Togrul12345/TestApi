@@ -4,6 +4,7 @@ using Application.Features.Mediator.Commands.ChatCommands;
 using Application.Features.Mediator.Commands.MessageCommands;
 using Application.Features.Mediator.Queries.ChatQueries;
 using Application.Features.Mediator.Queries.MessageQueries;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
@@ -12,8 +13,23 @@ namespace API.Controllers.Web
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(Roles ="Owner")]
     public class ChatsController : BaseApiController
     {
+        [HttpGet("GetAllChats")]
+        public async Task<IActionResult> GetAll()
+        {
+            try
+            {
+                return Ok(await Mediator.Send(new GetChatsQuery()));
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
+        //istifadəçinin chat siyahısı
         [HttpGet]
         public async Task<IActionResult> GetAll(int id)
         {
@@ -28,6 +44,7 @@ namespace API.Controllers.Web
             }
         }
         [HttpGet("{id}")]
+        //chat haqqında məlumat
         public async Task<IActionResult> GetById(int id)
         {
             try
@@ -40,6 +57,7 @@ namespace API.Controllers.Web
                 return BadRequest(ex.Message);
             }
         }
+        //mesajları əldə etmək
         [HttpGet("{id}/messages")]
         public async Task<IActionResult> GetMessagesByChatId(int id)
         {
@@ -52,6 +70,7 @@ namespace API.Controllers.Web
                 return BadRequest(ex.Message);
             }
         }
+        //- chat yaratmaq
         [HttpPost("Create")]
         public async Task<IActionResult> Create(CreateChatCommand command)
         {
@@ -65,6 +84,7 @@ namespace API.Controllers.Web
                 return BadRequest(ex.Message);
             }
         }
+        //admin təyin etmək
         [HttpPost("{id}/admins/{userId}")]
         public async Task<IActionResult> AssignAdmin(int id, int userId)
         {
@@ -78,7 +98,9 @@ namespace API.Controllers.Web
                 return BadRequest(ex.Message);
             }
         }
+        //- iştirakçı əlavə etmək
         [HttpPost("{id}/members")]
+        [Authorize(Roles = "Owner,Admin")]
         public async Task<IActionResult> AddParticipant(int id, int participantId)
         {
             try
@@ -91,7 +113,9 @@ namespace API.Controllers.Web
                 return BadRequest(ex.Message);
             }
         }
+        //mesaj göndərmək
         [HttpPost("{id}/messages")]
+        [Authorize(Roles = "Owner,Member")]
         public async Task<IActionResult> CreateMessage(int id, string content)
         {
             try
@@ -108,6 +132,7 @@ namespace API.Controllers.Web
             }
         }
         [HttpPut("{id}")]
+        //chat məlumatlarını yeniləmək
         public async Task<IActionResult> Update(int id, string Avatar
         , string FoneImg)
         {
@@ -127,6 +152,7 @@ namespace API.Controllers.Web
                 return BadRequest(ex.Message);
             }
         }
+        //chat-i silmək (super-admin)
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
@@ -140,7 +166,8 @@ namespace API.Controllers.Web
                 return BadRequest(ex.Message);
             }
         }
-
+        //iştirakçını silmək
+        [Authorize(Roles = "Owner,Admin")]
         [HttpDelete("{id}/members/{userId}")]
         public async Task<IActionResult> DeleteUserFromChat(int userId, int id)
         {
@@ -154,6 +181,8 @@ namespace API.Controllers.Web
                 return BadRequest(ex.Message);
             }
         }
+        //admini silmek
+        [Authorize(Roles = "Owner")]
         [HttpDelete("{id}/admins/{userId}")]
         public async Task<IActionResult> DeleteAdmin(int id, int userId)
         {

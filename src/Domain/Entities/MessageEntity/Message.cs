@@ -17,7 +17,8 @@ namespace Domain.Entities.MessageEntity
         // Ümumi Əlaqələr
         public int? SenderId { get; set; }
         public virtual AppUser? Sender { get; set; }
-
+        public bool IsDelivered { get; set; }
+        public bool IsRead { get; set; }
         public int? ReceiverId { get; set; }
         public virtual AppUser? Receiver { get; set; }
         public int? MessageReplyId { get; set; }
