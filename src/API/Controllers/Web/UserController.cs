@@ -14,12 +14,12 @@ namespace API.Controllers.Web
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "Owner")]
-    public class UserController : BaseApiController //Burda BaseApiControlleri ishlede bilersiz onda mediatoru burda cagirmaq ehtiyaci olmayacaq
+    
+    public class UserController : BaseApiController
     {
-       
 
-        
+
+       
         [HttpPost]
         public async Task<IActionResult> Create(CreateAppUserCommand command)
         {
@@ -35,6 +35,7 @@ namespace API.Controllers.Web
             
             
         }
+        
         [HttpPost("Login")]
         public async Task <IActionResult> Login(LoginAppUserQuery query)
         {
@@ -50,6 +51,7 @@ namespace API.Controllers.Web
             }
            
         }
+        [Authorize(Roles = "Owner,Admin")]
         [HttpGet("GetAllUsers")]
         public async Task<IActionResult> GetAll()
         {
@@ -65,6 +67,7 @@ namespace API.Controllers.Web
             }
             
         }
+        [Authorize(Roles = "Owner,Admin")]
         [HttpGet("GetById/{id}")]
         public async Task<IActionResult> GetById(int id)
         {
@@ -79,6 +82,7 @@ namespace API.Controllers.Web
             }
            
         }
+        [Authorize(Roles = "Owner,Admin")]
         [HttpPut("Update")]
         public async Task<IActionResult> Update(UpdateAppUserCommand command)
         {
@@ -94,6 +98,7 @@ namespace API.Controllers.Web
             
            
         }
+        [Authorize(Roles = "Owner,Admin")]
         [HttpDelete]
         public async Task<IActionResult> Delete(int id)
         {
@@ -108,6 +113,7 @@ namespace API.Controllers.Web
             }
          
         }
+        [Authorize(Roles = "Owner,Admin")]
         [HttpGet("GetPagination")]
         public async Task<IActionResult> Create([FromQuery] int pageNumber,
     [FromQuery] int pageSize)
