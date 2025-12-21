@@ -63,7 +63,7 @@ namespace API.Hubs
                 Context.Abort();
                 return;
             }
-            if(!isAdmin)
+            if (!isAdmin)
             {
                 await Clients.All.SendAsync("UserOnline", userId);
                 await _userService.AssignStatus(true, int.Parse(userId!));
@@ -75,16 +75,20 @@ namespace API.Hubs
         // // Admin ghost mode üçün online users alma
         public async Task<List<int>> GetOnlineUsers()
         {
-            var userId =int.Parse(Context.UserIdentifier!);
-            if (!Context.User.IsInRole("Admin"))
-                throw new HubException("Forbidden");
+            var userId = int.Parse(Context.UserIdentifier!);
+
 
             var users = _context.AppUsers
-                .Where(u => u.IsAdmin==false && u.Id != userId)
-                .Select(u => u.Id)
-                .ToList();
+              .Where(u => u.IsAdmin == false && u.Id != userId)
+              .Select(u => u.Id)
+              .ToList();
 
             return await Task.FromResult(users);
+
+
+
+
+
         }
         //Chat yaratmaq üçün yazılmış metod
         public async Task CreateChat(string foneImg, string avatar)
@@ -205,17 +209,17 @@ namespace API.Hubs
 
 
         //mesaj göndərmək üçün yazılmış metod
-        public async Task SendMessage(string message, int receiverId, int chatId, DateTime? unLockAt,MessageType type)
+        public async Task SendMessage(string message, int receiverId, int chatId, DateTime? unLockAt, MessageType type)
         {
             var userId = Context.UserIdentifier;
             var userName = Context.User.Identity?.Name;
-            var chat=_context.Chats.FirstOrDefault(c => c.Id == chatId);
+            var chat = _context.Chats.FirstOrDefault(c => c.Id == chatId);
             if (chat.IsReadOnly == true)
             {
                 throw new HubException("Chat is read-only. You cannot send messages.");
             }
             DateTime? ExpiredAt = null;
-            if(type == MessageType.File)
+            if (type == MessageType.File)
             {
                 ExpiredAt = DateTime.UtcNow.AddHours(24);
             }

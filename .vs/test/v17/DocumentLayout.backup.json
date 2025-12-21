@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251221153301_PollAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\Migrations\\20251221153301_PollAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\services\\pollservices\\pollautocloseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\services\\pollservices\\pollautocloseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\services\\messageservices\\messageexpirationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\services\\messageservices\\messageexpirationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251221153301_PollAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\Migrations\\20251221153301_PollAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E50243F0-A434-451F-9F58-7CA46B00835E}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\infrastructure\\contexts\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\chatentity\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\chatentity\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\entities\\messageentity\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -201,10 +209,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\domain\\security\\jwt\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC5ECE7-3F3E-446D-84BD-298578458DD1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\security\\jwt\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26CB92A5-8615-40F8-93ED-7C38020F1B18}|src\\API\\API.csproj|c:\\users\\togrul\\onedrive\\documents\\test\\test\\src\\api\\controllers\\web\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -846,7 +850,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -878,7 +882,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "PollAutoCloseService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\PollServices\\PollAutoCloseService.cs",
+              "RelativeDocumentMoniker": "src\\API\\Services\\PollServices\\PollAutoCloseService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\PollServices\\PollAutoCloseService.cs",
+              "RelativeToolTip": "src\\API\\Services\\PollServices\\PollAutoCloseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:35:48.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20251221153301_PollAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251221153301_PollAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251221153301_PollAdded.cs",
@@ -891,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PollVote.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\PollVote.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\PollVote.cs",
@@ -904,7 +921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Poll.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\Poll.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\Poll.cs",
@@ -917,20 +934,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MessageType.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Enums\\MessageType.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Enums\\MessageType.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Enums\\MessageType.cs",
-              "RelativeToolTip": "src\\Domain\\Enums\\MessageType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T14:31:08.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MessageExpirationService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\MessageServices\\MessageExpirationService.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\MessageServices\\MessageExpirationService.cs",
@@ -943,7 +947,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "src\\API\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "src\\API\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAAwCYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:04:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Program.cs",
+              "RelativeToolTip": "src\\API\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAYwHEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:42:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessageType.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Enums\\MessageType.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Enums\\MessageType.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Enums\\MessageType.cs",
+              "RelativeToolTip": "src\\Domain\\Enums\\MessageType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:31:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20251221101008_ChatUserAdded2.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251221101008_ChatUserAdded2.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251221101008_ChatUserAdded2.cs",
@@ -956,7 +999,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TestDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContext.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\TestDbContext.cs",
@@ -969,20 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Hubs\\ChatHub.cs",
-              "RelativeDocumentMoniker": "src\\API\\Hubs\\ChatHub.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Hubs\\ChatHub.cs",
-              "RelativeToolTip": "src\\API\\Hubs\\ChatHub.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAuwL8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T07:04:12.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\Message.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\Message.cs",
@@ -995,7 +1025,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Chat.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\Chat.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\Chat.cs",
@@ -1008,7 +1038,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "RejoinRule.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\RejoinRule.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\RejoinRule.cs",
@@ -1020,7 +1050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ConnectionManager.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\ConnectionServices\\ConnectionManager.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\ConnectionServices\\ConnectionManager.cs",
@@ -1033,7 +1063,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppUser.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\AppUser.cs",
@@ -1046,7 +1076,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "OnlineUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Dtos\\OnlineUserDto.cs",
               "RelativeDocumentMoniker": "src\\API\\Dtos\\OnlineUserDto.cs",
@@ -1059,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ChatUser.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\ChatUser.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\ChatUser.cs",
@@ -1072,7 +1102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "AuditLog.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\AuditLogEntity\\AuditLog.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\AuditLogEntity\\AuditLog.cs",
@@ -1084,7 +1114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "AuditService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\AuditService\\AuditService.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\AuditService\\AuditService.cs",
@@ -1096,7 +1126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 208,
+              "DocumentIndex": 209,
               "Title": "20251220174857_UnLockAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251220174857_UnLockAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251220174857_UnLockAdded.cs",
@@ -1108,7 +1138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "RemovedUserFromChat.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\RemovedUserFromChat.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\RemovedUserFromChat.cs",
@@ -1120,7 +1150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "AuditedEntity.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\AuditedEntity.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\AuditedEntity.cs",
@@ -1132,7 +1162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "IAuditService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\AuditService\\IAuditService.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\AuditService\\IAuditService.cs",
@@ -1144,7 +1174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "TestDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\TestDbContextFactory.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\TestDbContextFactory.cs",
@@ -1156,7 +1186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "BaseAuditedEntity.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\BaseAuditedEntity.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\BaseAuditedEntity.cs",
@@ -1168,7 +1198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\BaseEntity.cs",
@@ -1180,7 +1210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "InviteLink.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\InviteLink.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\InviteLink.cs",
@@ -1192,7 +1222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Ban.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\Ban.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\Ban.cs",
@@ -1204,7 +1234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ChatAdmin.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\ChatEntity\\ChatAdmin.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\ChatEntity\\ChatAdmin.cs",
@@ -1216,7 +1246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "SenderReceiver.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\SenderReceiver.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\SenderReceiver.cs",
@@ -1228,7 +1258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "UserAdmin.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\UserAdmin.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\UserAdmin.cs",
@@ -1240,7 +1270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "IChatService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\ChatServices\\IChatService.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\ChatServices\\IChatService.cs",
@@ -1252,7 +1282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IConnectionManager.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\ConnectionServices\\IConnectionManager.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\ConnectionServices\\IConnectionManager.cs",
@@ -1264,7 +1294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ChatService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\ChatServices\\ChatService.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\ChatServices\\ChatService.cs",
@@ -1276,7 +1306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "20251220094716_InviteLinkAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251220094716_InviteLinkAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251220094716_InviteLinkAdded.cs",
@@ -1288,7 +1318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "SenderReceiverService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\SenderReceiverServices\\SenderReceiverService.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\SenderReceiverServices\\SenderReceiverService.cs",
@@ -1300,7 +1330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 203,
+              "DocumentIndex": 204,
               "Title": "20251220094000_IsPinnedAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251220094000_IsPinnedAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251220094000_IsPinnedAdded.cs",
@@ -1312,7 +1342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ISenderReceiverService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\SenderReceiverServices\\ISenderReceiverService.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\SenderReceiverServices\\ISenderReceiverService.cs",
@@ -1324,7 +1354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 204,
+              "DocumentIndex": 205,
               "Title": "20251220085541_ChatIdAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251220085541_ChatIdAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251220085541_ChatIdAdded.cs",
@@ -1336,7 +1366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "EfRepository.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\EfRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\EfRepository.cs",
@@ -1348,7 +1378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 205,
+              "DocumentIndex": 206,
               "Title": "20251220084159_TableAdded3.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251220084159_TableAdded3.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251220084159_TableAdded3.cs",
@@ -1360,7 +1390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 206,
+              "DocumentIndex": 207,
               "Title": "20251220083716_TableAdded2.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251220083716_TableAdded2.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251220083716_TableAdded2.cs",
@@ -1372,7 +1402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "MessageReaction.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\MessageReaction.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\MessageReaction.cs",
@@ -1384,7 +1414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "20251219182913_ModelAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251219182913_ModelAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251219182913_ModelAdded.cs",
@@ -1396,7 +1426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 207,
+              "DocumentIndex": 208,
               "Title": "20251220082459_TableAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251220082459_TableAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251220082459_TableAdded.cs",
@@ -1408,7 +1438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 201,
+              "DocumentIndex": 202,
               "Title": "20251219182123_ForwardReplyAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251219182123_ForwardReplyAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251219182123_ForwardReplyAdded.cs",
@@ -1420,7 +1450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "MessageDeletedForUser.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\MessageDeletedForUser.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\MessageDeletedForUser.cs",
@@ -1432,7 +1462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 202,
+              "DocumentIndex": 203,
               "Title": "20251219180944_ReactionAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251219180944_ReactionAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251219180944_ReactionAdded.cs",
@@ -1444,7 +1474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\UserServices\\UserService.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\UserServices\\UserService.cs",
@@ -1456,7 +1486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "FileMessage.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\FileMessage.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\FileMessage.cs",
@@ -1468,7 +1498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "CustomExceptionHandlerMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Common\\CustomExceptionHandlerMiddleware.cs",
               "RelativeDocumentMoniker": "src\\API\\Common\\CustomExceptionHandlerMiddleware.cs",
@@ -1480,7 +1510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\DependencyInjection.cs",
@@ -1492,7 +1522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "BaseDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\BaseDbContext.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\BaseDbContext.cs",
@@ -1504,7 +1534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "ChatsController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Web\\ChatsController.cs",
               "RelativeDocumentMoniker": "src\\API\\Controllers\\Web\\ChatsController.cs",
@@ -1516,7 +1546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "RequestValidationBehavior.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Behaviors\\RequestValidationBehavior.cs",
               "RelativeDocumentMoniker": "src\\Application\\Common\\Behaviors\\RequestValidationBehavior.cs",
@@ -1528,7 +1558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "GetChatsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\GetChatsQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\GetChatsQueryHandler.cs",
@@ -1540,7 +1570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Results\\Result.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Results\\Result.cs",
@@ -1552,7 +1582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "DomainError.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\DomainError.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\DomainError.cs",
@@ -1564,7 +1594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "PermissionPolicyProvider.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Permission\\PermissionPolicyProvider.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\Permission\\PermissionPolicyProvider.cs",
@@ -1576,7 +1606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "JwtConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\Configuration\\JwtConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\Configuration\\JwtConfiguration.cs",
@@ -1588,19 +1618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\API\\Program.cs",
-              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Program.cs",
-              "RelativeToolTip": "src\\API\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAYwE8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T05:42:39.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Web\\UserController.cs",
               "RelativeDocumentMoniker": "src\\API\\Controllers\\Web\\UserController.cs",
@@ -1612,7 +1630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "MessagesController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Web\\MessagesController.cs",
               "RelativeDocumentMoniker": "src\\API\\Controllers\\Web\\MessagesController.cs",
@@ -1624,7 +1642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "src\\Domain\\DependencyInjection.cs",
@@ -1636,7 +1654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\UserServices\\IUserService.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\UserServices\\IUserService.cs",
@@ -1648,7 +1666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "DependencyInjectionApplication.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\DependencyInjectionApplication.cs",
               "RelativeDocumentMoniker": "src\\Application\\DependencyInjectionApplication.cs",
@@ -1660,7 +1678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "GetChatsQuery.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\ChatQueries\\GetChatsQuery.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\ChatQueries\\GetChatsQuery.cs",
@@ -1672,7 +1690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 200,
+              "DocumentIndex": 201,
               "Title": "20251219072920_IsOnlineAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251219072920_IsOnlineAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251219072920_IsOnlineAdded.cs",
@@ -1684,7 +1702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "GetPaginationForMessagesQuery.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\PaginationQueries\\GetPaginationForMessagesQuery.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\PaginationQueries\\GetPaginationForMessagesQuery.cs",
@@ -1696,7 +1714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "GetPaginationForMessagesQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\PaginationHandlers\\GetPaginationForMessagesQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\PaginationHandlers\\GetPaginationForMessagesQueryHandler.cs",
@@ -1708,7 +1726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "GetPaginationQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\PaginationHandlers\\GetPaginationQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\PaginationHandlers\\GetPaginationQueryHandler.cs",
@@ -1720,7 +1738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "MessageRepository.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\MessageRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\MessageRepository.cs",
@@ -1732,7 +1750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "IMessageRepository.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\IMessageRepository.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Interfaces\\IMessageRepository.cs",
@@ -1744,7 +1762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "PaginatedList.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Pagination\\PaginatedList.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Pagination\\PaginatedList.cs",
@@ -1756,7 +1774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "AppUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\AppUserRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\AppUserRepository.cs",
@@ -1768,7 +1786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "IAppUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\IAppUserRepository.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Interfaces\\IAppUserRepository.cs",
@@ -1780,7 +1798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "GetPaginationQuery.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\PaginationQueries\\GetPaginationQuery.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\PaginationQueries\\GetPaginationQuery.cs",
@@ -1792,7 +1810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "GetMessagesQuery.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\MessageQueries\\GetMessagesQuery.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\MessageQueries\\GetMessagesQuery.cs",
@@ -1804,7 +1822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "DomainSuccess.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Models\\DomainSuccess.cs",
               "RelativeDocumentMoniker": "src\\API\\Models\\DomainSuccess.cs",
@@ -1816,7 +1834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "GetChatsByUserIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\GetChatsByUserIdQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\GetChatsByUserIdQueryHandler.cs",
@@ -1828,7 +1846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "src\\API\\Models\\ApiResponse.cs",
@@ -1840,7 +1858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "GetChatsByUserIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\ChatQueries\\GetChatsByUserIdQuery.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\ChatQueries\\GetChatsByUserIdQuery.cs",
@@ -1852,7 +1870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "IResult.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Results\\IResult.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Results\\IResult.cs",
@@ -1864,7 +1882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "DomainError.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Models\\DomainError.cs",
               "RelativeDocumentMoniker": "src\\API\\Models\\DomainError.cs",
@@ -1876,7 +1894,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "ResultChatDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Dtos\\ChatDtos\\ResultChatDto.cs",
               "RelativeDocumentMoniker": "src\\Application\\Dtos\\ChatDtos\\ResultChatDto.cs",
@@ -1888,7 +1906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "AssignAdminToChatCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\AssignAdminToChatCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\AssignAdminToChatCommand.cs",
@@ -1900,7 +1918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "AssignAdminToChatCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\AssignAdminToChatCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\AssignAdminToChatCommandHandler.cs",
@@ -1912,7 +1930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "CreateChatDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Dtos\\ChatDtos\\CreateChatDto.cs",
               "RelativeDocumentMoniker": "src\\Application\\Dtos\\ChatDtos\\CreateChatDto.cs",
@@ -1924,7 +1942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "JwtHelper.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\JwtHelper.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\JwtHelper.cs",
@@ -1936,7 +1954,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 199,
+              "DocumentIndex": 200,
               "Title": "20251217165901_SomeThings has changed.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251217165901_SomeThings has changed.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251217165901_SomeThings has changed.cs",
@@ -1948,7 +1966,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "CreateChatUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Dtos\\ChatUserDtos\\CreateChatUserDto.cs",
               "RelativeDocumentMoniker": "src\\Application\\Dtos\\ChatUserDtos\\CreateChatUserDto.cs",
@@ -1960,7 +1978,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "CreateChatCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\CreateChatCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\CreateChatCommand.cs",
@@ -1972,7 +1990,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "CreateChatCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\CreateChatCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\CreateChatCommandHandler.cs",
@@ -1984,7 +2002,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "src\\Domain\\Domain.csproj",
@@ -1996,7 +2014,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "PermissionRequirement.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Permission\\PermissionRequirement.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\Permission\\PermissionRequirement.cs",
@@ -2008,7 +2026,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "TokenOptions.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\TokenOptions.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\TokenOptions.cs",
@@ -2020,7 +2038,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "AccessToken.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\AccessToken.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\AccessToken.cs",
@@ -2032,7 +2050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "ConstantValues.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\ConstantValues.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Constants\\ConstantValues.cs",
@@ -2044,7 +2062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "CustomClaimTypes.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\CustomClaimTypes.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Constants\\CustomClaimTypes.cs",
@@ -2056,7 +2074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "ResponseMessages.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\ResponseMessages.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Constants\\ResponseMessages.cs",
@@ -2068,7 +2086,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "Permissions.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Constants\\Permissions.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Constants\\Permissions.cs",
@@ -2080,7 +2098,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "HttpHelper.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Helpers\\HttpHelper.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Helpers\\HttpHelper.cs",
@@ -2092,7 +2110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "src\\Application\\Application.csproj",
@@ -2104,7 +2122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "BaseApiController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Controllers\\Base\\BaseApiController.cs",
               "RelativeDocumentMoniker": "src\\API\\Controllers\\Base\\BaseApiController.cs",
@@ -2116,7 +2134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\API\\Properties\\launchSettings.json",
@@ -2128,7 +2146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\appsettings.json",
               "RelativeDocumentMoniker": "src\\API\\appsettings.json",
@@ -2140,7 +2158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 95,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\API\\appsettings.Development.json",
@@ -2152,7 +2170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 96,
               "Title": "AuthorizeRolesAttribute.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Filters\\AuthorizeRolesAttribute.cs",
               "RelativeDocumentMoniker": "src\\API\\Filters\\AuthorizeRolesAttribute.cs",
@@ -2164,7 +2182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "API.http",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\API.http",
               "RelativeDocumentMoniker": "src\\API\\API.http",
@@ -2176,7 +2194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 98,
               "Title": "PermissionAuthorizeAttribute.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Filters\\PermissionAuthorizeAttribute.cs",
               "RelativeDocumentMoniker": "src\\API\\Filters\\PermissionAuthorizeAttribute.cs",
@@ -2188,7 +2206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 99,
               "Title": "CreateAppUserCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Validators\\CreateAppUserCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Application\\Validators\\CreateAppUserCommandValidator.cs",
@@ -2200,7 +2218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 100,
               "Title": "UserConnectionManager.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\UserConnectionServices\\UserConnectionManager.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\UserConnectionServices\\UserConnectionManager.cs",
@@ -2212,7 +2230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 101,
               "Title": "IUserConnectionManager.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Services\\UserConnectionServices\\IUserConnectionManager.cs",
               "RelativeDocumentMoniker": "src\\API\\Services\\UserConnectionServices\\IUserConnectionManager.cs",
@@ -2224,7 +2242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 198,
+              "DocumentIndex": 199,
               "Title": "20251215153724_nulladded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251215153724_nulladded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251215153724_nulladded.cs",
@@ -2236,7 +2254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 103,
               "Title": "ResultMessageDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Dtos\\MessageDtos\\ResultMessageDto.cs",
               "RelativeDocumentMoniker": "src\\Application\\Dtos\\MessageDtos\\ResultMessageDto.cs",
@@ -2248,7 +2266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 102,
               "Title": "CreateMessageCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\CreateMessageCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\CreateMessageCommand.cs",
@@ -2260,7 +2278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 104,
               "Title": "GetMessagesQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\GetMessagesQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\GetMessagesQueryHandler.cs",
@@ -2272,7 +2290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 105,
               "Title": "CreateMessageCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\CreateMessageCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\CreateMessageCommandHandler.cs",
@@ -2284,7 +2302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 106,
               "Title": "Utilities.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Utility\\Utilities.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Utility\\Utilities.cs",
@@ -2296,7 +2314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 107,
               "Title": "VoiceMessage.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\VoiceMessage.cs",
@@ -2308,7 +2326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 108,
               "Title": "VideoMessage.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\VideoMessage.cs",
@@ -2320,7 +2338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 109,
               "Title": "UploadFileCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\UploadFileCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\UploadFileCommandHandler.cs",
@@ -2332,7 +2350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 110,
               "Title": "UploadFileCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\UploadFileCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\UploadFileCommand.cs",
@@ -2344,7 +2362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 111,
               "Title": "AddReactionToMessageCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\AddReactionToMessageCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\AddReactionToMessageCommandHandler.cs",
@@ -2356,7 +2374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 112,
               "Title": "UpdateMessageCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\UpdateMessageCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\UpdateMessageCommandHandler.cs",
@@ -2368,7 +2386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 113,
               "Title": "AddReactionToMessageCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\AddReactionToMessageCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\AddReactionToMessageCommand.cs",
@@ -2380,7 +2398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 114,
               "Title": "DeleteMessageCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\DeleteMessageCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\DeleteMessageCommand.cs",
@@ -2392,7 +2410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 115,
               "Title": "DeleteMessageCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\DeleteMessageCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\MessageHandlers\\DeleteMessageCommandHandler.cs",
@@ -2404,7 +2422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 116,
               "Title": "UpdateMessageCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\UpdateMessageCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\MessageCommands\\UpdateMessageCommand.cs",
@@ -2416,7 +2434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 117,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Interfaces\\IRepository.cs",
@@ -2428,7 +2446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 195,
+              "DocumentIndex": 196,
               "Title": "20251214094536_MessageChanged.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251214094536_MessageChanged.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251214094536_MessageChanged.cs",
@@ -2440,7 +2458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 118,
               "Title": "ResultChatAdminDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Dtos\\ChatAdminDtos\\ResultChatAdminDto.cs",
               "RelativeDocumentMoniker": "src\\Application\\Dtos\\ChatAdminDtos\\ResultChatAdminDto.cs",
@@ -2452,7 +2470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 119,
               "Title": "DeleteAdminFromChatCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\DeleteAdminFromChatCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\DeleteAdminFromChatCommandHandler.cs",
@@ -2464,7 +2482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 196,
+              "DocumentIndex": 197,
               "Title": "20251214093750_DbsetAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251214093750_DbsetAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251214093750_DbsetAdded.cs",
@@ -2476,7 +2494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 197,
+              "DocumentIndex": 198,
               "Title": "20251214092526_newTableAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251214092526_newTableAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251214092526_newTableAdded.cs",
@@ -2488,7 +2506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 120,
               "Title": "DeleteAdminFromChatCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\DeleteAdminFromChatCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\DeleteAdminFromChatCommand.cs",
@@ -2500,7 +2518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 121,
               "Title": "AddAppUserToChatCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\AddAppUserToChatCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\AddAppUserToChatCommandHandler.cs",
@@ -2512,7 +2530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 123,
               "Title": "DeleteAppUserFromChatCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\DeleteAppUserFromChatCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\DeleteAppUserFromChatCommand.cs",
@@ -2524,7 +2542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 122,
               "Title": "DeleteAppUserFromChatCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\DeleteAppUserFromChatCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\DeleteAppUserFromChatCommandHandler.cs",
@@ -2536,7 +2554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 124,
               "Title": "DeleteChatCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\DeleteChatCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\DeleteChatCommandHandler.cs",
@@ -2548,7 +2566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 125,
               "Title": "DeleteChatCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\DeleteChatCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\DeleteChatCommand.cs",
@@ -2560,7 +2578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 126,
               "Title": "RoleUser.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\RoleUser.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\RoleUser.cs",
@@ -2572,7 +2590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 127,
               "Title": "AppRole.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\UserEntity\\AppRole.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\UserEntity\\AppRole.cs",
@@ -2584,7 +2602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 192,
+              "DocumentIndex": 193,
               "Title": "20251213200713_lazyLoadingAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251213200713_lazyLoadingAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251213200713_lazyLoadingAdded.cs",
@@ -2596,7 +2614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 128,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Entities\\MessageEntity\\Image.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Entities\\MessageEntity\\Image.cs",
@@ -2608,7 +2626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 129,
               "Title": "ResultChatUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Dtos\\ChatUserDtos\\ResultChatUserDto.cs",
               "RelativeDocumentMoniker": "src\\Application\\Dtos\\ChatUserDtos\\ResultChatUserDto.cs",
@@ -2620,7 +2638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 130,
               "Title": "UpdateChatCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\UpdateChatCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\ChatCommands\\UpdateChatCommand.cs",
@@ -2632,7 +2650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 131,
               "Title": "UpdateChatCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\UpdateChatCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\UpdateChatCommandHandler.cs",
@@ -2644,7 +2662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 132,
               "Title": "GetChatByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\GetChatByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\ChatHandlers\\GetChatByIdQueryHandler.cs",
@@ -2656,7 +2674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 133,
               "Title": "AddAppUserToChatCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\AddAppUserToChatCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\AddAppUserToChatCommand.cs",
@@ -2668,7 +2686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 134,
               "Title": "UpdateAppUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\UpdateAppUserCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\UpdateAppUserCommandHandler.cs",
@@ -2680,7 +2698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 135,
               "Title": "20251213192643_ChatUsersAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251213192643_ChatUsersAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251213192643_ChatUsersAdded.cs",
@@ -2692,7 +2710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 193,
+              "DocumentIndex": 194,
               "Title": "20251213192332_ChatUserAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251213192332_ChatUserAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251213192332_ChatUserAdded.cs",
@@ -2704,7 +2722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 194,
+              "DocumentIndex": 195,
               "Title": "20251213190035_StatusAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251213190035_StatusAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251213190035_StatusAdded.cs",
@@ -2716,7 +2734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 187,
+              "DocumentIndex": 188,
               "Title": "20251213104246_RestrictAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251213104246_RestrictAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251213104246_RestrictAdded.cs",
@@ -2728,7 +2746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 188,
+              "DocumentIndex": 189,
               "Title": "20251213103743_AdminAddedAsAProperty3.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251213103743_AdminAddedAsAProperty3.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251213103743_AdminAddedAsAProperty3.cs",
@@ -2740,7 +2758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 189,
+              "DocumentIndex": 190,
               "Title": "20251213103353_AdminAddedAsAProperty2.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251213103353_AdminAddedAsAProperty2.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251213103353_AdminAddedAsAProperty2.cs",
@@ -2752,7 +2770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 190,
+              "DocumentIndex": 191,
               "Title": "20251213103132_AdminAddedAsAProperty.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251213103132_AdminAddedAsAProperty.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251213103132_AdminAddedAsAProperty.cs",
@@ -2764,7 +2782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 191,
+              "DocumentIndex": 192,
               "Title": "20251213094052_somePropertiesAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251213094052_somePropertiesAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251213094052_somePropertiesAdded.cs",
@@ -2776,7 +2794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 136,
               "Title": "GetChatByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\ChatQueries\\GetChatByIdQuery.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\ChatQueries\\GetChatByIdQuery.cs",
@@ -2788,7 +2806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 138,
               "Title": "CreateAppUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\CreateAppUserCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\CreateAppUserCommandHandler.cs",
@@ -2800,7 +2818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 184,
+              "DocumentIndex": 185,
               "Title": "20251212085246_TypeChanged.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251212085246_TypeChanged.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251212085246_TypeChanged.cs",
@@ -2812,7 +2830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 137,
               "Title": "AppUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Dtos\\AppUserDto.cs",
               "RelativeDocumentMoniker": "src\\Application\\Dtos\\AppUserDto.cs",
@@ -2824,7 +2842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 139,
               "Title": "CreateAppUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\CreateAppUserCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\CreateAppUserCommand.cs",
@@ -2836,7 +2854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 141,
               "Title": "ILocalizationService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Interfaces\\ILocalizationService.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Interfaces\\ILocalizationService.cs",
@@ -2848,7 +2866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 140,
               "Title": "GetChatQueryResult.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Results\\ChatResults\\GetChatQueryResult.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Results\\ChatResults\\GetChatQueryResult.cs",
@@ -2860,7 +2878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 142,
               "Title": "GetAppUsersQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUsersQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUsersQueryHandler.cs",
@@ -2872,7 +2890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 143,
               "Title": "LoginAppUserQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\LoginAppUserQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\LoginAppUserQueryHandler.cs",
@@ -2884,7 +2902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 144,
               "Title": "LoginAppUserResult.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Results\\AppUserResults\\LoginAppUserResult.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Results\\AppUserResults\\LoginAppUserResult.cs",
@@ -2896,7 +2914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 145,
               "Title": "GetAppUsersQueryResult.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Results\\AppUserResults\\GetAppUsersQueryResult.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Results\\AppUserResults\\GetAppUsersQueryResult.cs",
@@ -2908,7 +2926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 146,
               "Title": "GetAppUsersQuery.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUsersQuery.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUsersQuery.cs",
@@ -2920,7 +2938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 185,
+              "DocumentIndex": 186,
               "Title": "20251212073133_IdDeleted.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251212073133_IdDeleted.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251212073133_IdDeleted.cs",
@@ -2932,7 +2950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 147,
               "Title": "LoginAppUserQuery.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\LoginAppUserQuery.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\LoginAppUserQuery.cs",
@@ -2944,7 +2962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 186,
+              "DocumentIndex": 187,
               "Title": "20251212072514_ChatAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251212072514_ChatAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251212072514_ChatAdded.cs",
@@ -2956,7 +2974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 148,
               "Title": "20251212071337_ChatAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\20251212071337_ChatAdded.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20251212071337_ChatAdded.cs",
@@ -2967,7 +2985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 149,
               "Title": "ProdDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Contexts\\ProdDbContext.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Contexts\\ProdDbContext.cs",
@@ -2979,7 +2997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 150,
               "Title": "AuditedEntityConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Persistence\\Configurations\\BaseConfiguration\\AuditedEntityConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\Configurations\\BaseConfiguration\\AuditedEntityConfiguration.cs",
@@ -2991,7 +3009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 151,
               "Title": "LocalizationService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Services\\Domain\\LocalizationService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Services\\Domain\\LocalizationService.cs",
@@ -3003,7 +3021,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 152,
               "Title": "PaginatedListConverter.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\PaginatedListConverter.cs",
               "RelativeDocumentMoniker": "src\\Application\\Common\\Mappings\\PaginatedListConverter.cs",
@@ -3015,7 +3033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 153,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "src\\Application\\Common\\Mappings\\MappingProfile.cs",
@@ -3027,7 +3045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 154,
               "Title": "IMapTo.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\IMapTo.cs",
               "RelativeDocumentMoniker": "src\\Application\\Common\\Mappings\\IMapTo.cs",
@@ -3039,7 +3057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 155,
               "Title": "IMapFrom.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Mappings\\IMapFrom.cs",
               "RelativeDocumentMoniker": "src\\Application\\Common\\Mappings\\IMapFrom.cs",
@@ -3051,7 +3069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 156,
               "Title": "ru.json",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Resources\\ru.json",
               "RelativeDocumentMoniker": "src\\API\\Resources\\ru.json",
@@ -3063,7 +3081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 156,
+              "DocumentIndex": 157,
               "Title": "en.json",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Resources\\en.json",
               "RelativeDocumentMoniker": "src\\API\\Resources\\en.json",
@@ -3075,7 +3093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 157,
+              "DocumentIndex": 158,
               "Title": "az.json",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\API\\Resources\\az.json",
               "RelativeDocumentMoniker": "src\\API\\Resources\\az.json",
@@ -3087,7 +3105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 158,
+              "DocumentIndex": 159,
               "Title": "GetAppUserByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUserByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\GetAppUserByIdQueryHandler.cs",
@@ -3099,7 +3117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 159,
+              "DocumentIndex": 160,
               "Title": "DeleteAppUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\DeleteAppUserCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\AppUserHandlers\\DeleteAppUserCommandHandler.cs",
@@ -3111,7 +3129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 160,
+              "DocumentIndex": 161,
               "Title": "ClaimsHelper.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Helpers\\Permission\\ClaimsHelper.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Helpers\\Permission\\ClaimsHelper.cs",
@@ -3123,7 +3141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 161,
+              "DocumentIndex": 162,
               "Title": "RoleClaimsDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Helpers\\Permission\\RoleClaimsDto.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Helpers\\Permission\\RoleClaimsDto.cs",
@@ -3135,7 +3153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 162,
+              "DocumentIndex": 163,
               "Title": "PaginationFilter.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Pagination\\PaginationFilter.cs",
@@ -3147,7 +3165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 163,
+              "DocumentIndex": 164,
               "Title": "UpdateAppUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\UpdateAppUserCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\UpdateAppUserCommand.cs",
@@ -3159,7 +3177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 164,
+              "DocumentIndex": 165,
               "Title": "GetAppUserByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUserByIdQuery.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Queries\\AppUserQueries\\GetAppUserByIdQuery.cs",
@@ -3171,7 +3189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 165,
+              "DocumentIndex": 166,
               "Title": "UpdateAppUserCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Validators\\UpdateAppUserCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Application\\Validators\\UpdateAppUserCommandValidator.cs",
@@ -3183,7 +3201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 166,
+              "DocumentIndex": 167,
               "Title": "DeleteAppUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\DeleteAppUserCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\AppUserCommands\\DeleteAppUserCommand.cs",
@@ -3195,7 +3213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 167,
+              "DocumentIndex": 168,
               "Title": "SigningCredentialsHelper.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Encryption\\SigningCredentialsHelper.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\Encryption\\SigningCredentialsHelper.cs",
@@ -3207,7 +3225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 168,
+              "DocumentIndex": 169,
               "Title": "SecurityKeyHelper.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Encryption\\SecurityKeyHelper.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\Encryption\\SecurityKeyHelper.cs",
@@ -3219,7 +3237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 169,
+              "DocumentIndex": 170,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Infrastructure.csproj",
@@ -3231,7 +3249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 170,
+              "DocumentIndex": 171,
               "Title": "ITokenHelper.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\ITokenHelper.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\ITokenHelper.cs",
@@ -3243,7 +3261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 171,
+              "DocumentIndex": 172,
               "Title": "RoleUserCommandsHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Handlers\\RoleUserHandlers\\RoleUserCommandsHandler.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Handlers\\RoleUserHandlers\\RoleUserCommandsHandler.cs",
@@ -3255,7 +3273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 172,
+              "DocumentIndex": 173,
               "Title": "RoleUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Features\\Mediator\\Commands\\RoleUserCommands\\RoleUserCommand.cs",
               "RelativeDocumentMoniker": "src\\Application\\Features\\Mediator\\Commands\\RoleUserCommands\\RoleUserCommand.cs",
@@ -3267,7 +3285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 173,
+              "DocumentIndex": 174,
               "Title": "Encrypt.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\Encryption\\Encrypt.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\Encryption\\Encrypt.cs",
@@ -3279,7 +3297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 174,
+              "DocumentIndex": 175,
               "Title": "ISoftDelete.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\ISoftDelete.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\ISoftDelete.cs",
@@ -3291,7 +3309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 175,
+              "DocumentIndex": 176,
               "Title": "IEntity.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Common\\Entities\\IEntity.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Common\\Entities\\IEntity.cs",
@@ -3303,7 +3321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 177,
+              "DocumentIndex": 178,
               "Title": "20251121070815_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\TestDb\\20251121070815_InitialCreate.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\TestDb\\20251121070815_InitialCreate.cs",
@@ -3314,7 +3332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 176,
+              "DocumentIndex": 177,
               "Title": "20251121071144_mig2.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Migrations\\TestDb\\20251121071144_mig2.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\TestDb\\20251121071144_mig2.cs",
@@ -3325,7 +3343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 178,
+              "DocumentIndex": 179,
               "Title": "SwaggerConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\Configuration\\SwaggerConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\Configuration\\SwaggerConfiguration.cs",
@@ -3337,7 +3355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 179,
+              "DocumentIndex": 180,
               "Title": "PermissionAuthorizationHandler.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Domain\\Security\\JWT\\Configuration\\PermissionAuthorizationHandler.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Security\\JWT\\Configuration\\PermissionAuthorizationHandler.cs",
@@ -3349,7 +3367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 180,
+              "DocumentIndex": 181,
               "Title": "AtlSmsService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Services\\External\\AtlSmsService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Services\\External\\AtlSmsService.cs",
@@ -3361,7 +3379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 181,
+              "DocumentIndex": 182,
               "Title": "ValidationException.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Exceptions\\ValidationException.cs",
               "RelativeDocumentMoniker": "src\\Application\\Common\\Exceptions\\ValidationException.cs",
@@ -3373,7 +3391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 182,
+              "DocumentIndex": 183,
               "Title": "ISmsSenderService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Application\\Common\\Interfaces\\ISmsSenderService.cs",
               "RelativeDocumentMoniker": "src\\Application\\Common\\Interfaces\\ISmsSenderService.cs",
@@ -3385,7 +3403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 183,
+              "DocumentIndex": 184,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Documents\\test\\test\\src\\Infrastructure\\Services\\Internal\\CustomerService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Services\\Internal\\CustomerService.cs",
