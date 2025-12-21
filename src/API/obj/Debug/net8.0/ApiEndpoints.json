@@ -285,6 +285,27 @@
   },
   {
     "ContainingType": "API.Controllers.Web.MessagesController",
+    "Method": "GetPaginationForMessageHistories",
+    "RelativePath": "api/Messages/GetPagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.Web.MessagesController",
     "Method": "Upload",
     "RelativePath": "api/Messages/UploadFile",
     "HttpMethod": "POST",

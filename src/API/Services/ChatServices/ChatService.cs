@@ -1,4 +1,5 @@
-﻿using Domain.Entities.MessageEntity;
+﻿using Domain.Entities.ChatEntity;
+using Domain.Entities.MessageEntity;
 using Infrastructure.Contexts;
 
 namespace API.Services.ChatServices
@@ -10,6 +11,12 @@ namespace API.Services.ChatServices
         public ChatService(TestDbContext context)
         {
             _context = context;
+        }
+
+        public async Task CreateBan(Ban ban)
+        {
+            _context.Bans.Add(ban);
+            await _context.SaveChangesAsync();
         }
 
         public async Task MarkAsDelivered(int userId)
@@ -39,6 +46,20 @@ namespace API.Services.ChatServices
         public Task<Message> SendMessageAsync(string senderId, string receiverId, string text)
         {
             throw new NotImplementedException();
+        }
+
+        public async Task UpdateMessage(int messageId,string content)
+        {
+           var message = _context.Messages.Find(messageId);
+            if(message.CreatedDate>DateTime.UtcNow.AddMinutes(-15))
+            {
+                message.Content = content;
+            }
+            else
+            {
+                throw new Exception("You can only update message within 15 minutes of sending it.");
+            }
+                await _context.SaveChangesAsync();
         }
     }
 }

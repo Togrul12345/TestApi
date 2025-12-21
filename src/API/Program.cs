@@ -1,5 +1,9 @@
 using API.Common;
 using API.Hubs;
+using API.Services.ChatServices;
+using API.Services.MessageServices;
+using API.Services.PollServices;
+using API.Services.UserServices;
 using Application;
 using Application.Common.Mappings;
 using Domain;
@@ -50,6 +54,9 @@ builder.Services.AddDomain();
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration, builder.Environment);
 builder.Services.AddSingleton<JwtHelper>();
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IChatService, ChatService>();
+
 
 //Database
 //builder.Services.AddDbContext<TestDbContext>(options =>
@@ -65,7 +72,7 @@ builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddFluentValidationClientsideAdapters();
 builder.Services.AddValidatorsFromAssembly(typeof(DependencyInjectionApplication).Assembly);
 builder.Services.AddAutoMapper(typeof(MappingProfile));
-
+builder.Services.AddSignalR();
 // CORS
 builder.Services.AddCors(opt => opt.AddDefaultPolicy(policy =>
 {
@@ -103,7 +110,8 @@ builder.Services.AddSwaggerGen(opt =>
     });
 });
 #endregion
-builder.Services.AddSignalR();
+builder.Services.AddHostedService<PollAutoCloseService>();
+builder.Services.AddHostedService<MessageExpirationService>();
 // Authorization
 builder.Services.AddAuthorization(options =>
 {

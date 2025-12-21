@@ -1,4 +1,5 @@
-﻿using Domain.Entities.MessageEntity;
+﻿using Domain.Entities.ChatEntity;
+using Domain.Entities.MessageEntity;
 
 namespace API.Services.ChatServices
 {
@@ -7,5 +8,7 @@ namespace API.Services.ChatServices
         Task<Message> SendMessageAsync(string senderId, string receiverId, string text);
         Task MarkAsReadAsync(int messageId);
         Task MarkAsDelivered(int userId);
+        Task UpdateMessage(int messageId,string content);
+        Task CreateBan(Ban ban);
     }
 }

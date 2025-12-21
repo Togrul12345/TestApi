@@ -1,4 +1,5 @@
-﻿using Domain.Common.Entities;
+﻿using Domain.Enums;
+using Domain.Common.Entities;
 using Domain.Entities.ChatEntity;
 using Domain.Entities.UserEntity;
 using System;
@@ -30,5 +31,14 @@ namespace Domain.Entities.MessageEntity
         public long? FileSize { get; set; } // Bayt ilə ölçüsü
         public int ChatId { get; set; }
         public virtual Chat Chat { get; set; }
+        public bool? IsPinned { get; set; }
+        public bool? IsExpired { get; set; }
+        public DateTime? ExpiredAt { get; set; }
+        public MessageType Type { get; set; }
+        public DateTime? UnLockAt { get; set; }
+
+        public virtual List<Message> ReplyMessages { get; set; }
+        public virtual List<MessageReaction> MessageReactions { get; set; }
+        public virtual List<MessageDeletedForUser> DeletedForUsers { get; set; }
     }
 }

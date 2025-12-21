@@ -13,7 +13,7 @@ namespace API.Controllers.Web
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles ="Owner")]
+   
     public class ChatsController : BaseApiController
     {
         [HttpGet("GetAllChats")]
@@ -100,7 +100,7 @@ namespace API.Controllers.Web
         }
         //- iştirakçı əlavə etmək
         [HttpPost("{id}/members")]
-        [Authorize(Roles = "Owner,Admin")]
+       
         public async Task<IActionResult> AddParticipant(int id, int participantId)
         {
             try
@@ -115,7 +115,7 @@ namespace API.Controllers.Web
         }
         //mesaj göndərmək
         [HttpPost("{id}/messages")]
-        [Authorize(Roles = "Owner,Member")]
+       
         public async Task<IActionResult> CreateMessage(int id, string content)
         {
             try
@@ -167,7 +167,7 @@ namespace API.Controllers.Web
             }
         }
         //iştirakçını silmək
-        [Authorize(Roles = "Owner,Admin")]
+     
         [HttpDelete("{id}/members/{userId}")]
         public async Task<IActionResult> DeleteUserFromChat(int userId, int id)
         {
@@ -182,7 +182,7 @@ namespace API.Controllers.Web
             }
         }
         //admini silmek
-        [Authorize(Roles = "Owner")]
+       
         [HttpDelete("{id}/admins/{userId}")]
         public async Task<IActionResult> DeleteAdmin(int id, int userId)
         {

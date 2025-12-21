@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using XAct.IO;
 
 namespace Infrastructure
 {
@@ -31,6 +32,10 @@ namespace Infrastructure
             services.AddScoped<IAppUserRepository, AppUserRepository>();
             services.AddSingleton<ILocalizationService, LocalizationService>();
             services.AddScoped<PaginatedList<AppUser>>();
+            services.AddScoped<IMessageRepository, MessageRepository>();
+            
+
+
 
             return services;
         }

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Enums
+namespace Domain.Common.Interfaces
 {
-    public enum ChatRole
+    public interface IMessageRepository
     {
+        Task<IQueryable<DateTime>> GetMessagesHistory();
     }
 }

@@ -17,6 +17,8 @@ namespace Domain.Entities.UserEntity
         public string LastName { get; set; }
         public string UserName { get; set; }
         public string Gmail { get; set; }
+        public bool? IsOnline { get; set; }
+        public bool? IsAdmin { get; set; }
         public string PasswordHash { get; set; }
         public virtual List<RoleUser> RoleUsers { get; set; }
       

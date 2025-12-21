@@ -1,5 +1,6 @@
 ﻿using Domain.Common.Entities;
 using Domain.Common.Utility;
+using Domain.Entities.AuditLogEntity;
 using Domain.Entities.ChatEntity;
 using Domain.Entities.MessageEntity;
 using Domain.Entities.UserEntity;
@@ -9,6 +10,7 @@ using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Microsoft.EntityFrameworkCore.Metadata;
 using System.Linq.Expressions;
 using System.Reflection;
+using System.Reflection.Metadata.Ecma335;
 namespace Infrastructure.Contexts;
 public class TestDbContext : BaseDbContext
 {
@@ -77,6 +79,23 @@ public class TestDbContext : BaseDbContext
             .HasForeignKey(a => a.SuperAdminId)
             .OnDelete(DeleteBehavior.Restrict);
         });
+        modelBuilder.Entity<SenderReceiver>(entity =>
+        {
+            entity.HasKey(cu => new
+            {
+               cu.UserId,
+              cu.ChatId,
+                cu.ConnectionId
+            });
+        });
+        modelBuilder.Entity<RejoinRule>(entity =>
+        {
+            entity.HasKey(cu => new
+            {
+                cu.UserId,
+                cu.RoomId
+            });
+        });
     }
     
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -105,6 +124,17 @@ public class TestDbContext : BaseDbContext
     public DbSet<VoiceMessage> VoiceMessages { get; set; }
     public DbSet<UserAdmin> UserAdmins { get; set; }
     public DbSet<ChatAdmin> ChatAdmins { get; set; }
+    public DbSet<MessageReaction> MessageReactions { get; set; }
+    public DbSet<MessageDeletedForUser> MessageDeletedForUsers { get; set; }
+    public DbSet<SenderReceiver> SenderReceivers { get; set; }
+    public DbSet<InviteLink> InviteLinks { get; set; }
+    public DbSet<RejoinRule> RejoinRules { get; set; }
+    public DbSet<Ban> Bans { get; set; }
+    public DbSet<RemovedUserFromChat> RemovedUserFromChats { get; set; }
+    public DbSet<AuditLog> AuditLogs { get; set; }
+    public DbSet<ChatUser> ChatUsers { get; set; }
+    public DbSet<Poll> Polls { get; set; }
+    public DbSet<PollVote> PollVotes { get; set; }
     #region Configure Global Filters
     protected void ConfigureGlobalFilters<TEntity>(ModelBuilder modelBuilder, IMutableEntityType entityType) where TEntity : class
     {

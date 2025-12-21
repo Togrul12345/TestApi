@@ -1,5 +1,6 @@
 ﻿using API.Controllers.Base;
 using Application.Features.Mediator.Commands.MessageCommands;
+using Application.Features.Mediator.Queries.PaginationQueries;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -8,10 +9,27 @@ namespace API.Controllers.Web
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "Owner")]
+   
     public class MessagesController : BaseApiController
-    {//mesajı redaktə etmək
-        [Authorize(Roles = "Owner,Member")]
+    {
+
+        [HttpGet("GetPagination")]
+        public async Task<IActionResult> GetPaginationForMessageHistories(int pageNumber,int pageSize)
+        {
+            try
+            {
+                return Ok(await Mediator.Send(new GetPaginationForMessagesQuery(pageSize,pageNumber)));
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
+        
+        
+        //mesajı redaktə etmək
+       
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(int id, string Content,int chatId)
         {
@@ -29,7 +47,7 @@ namespace API.Controllers.Web
             }
         }
         //mesajı silmək
-        [Authorize(Roles = "Owner,Member")]
+     
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
@@ -43,7 +61,7 @@ namespace API.Controllers.Web
             }
         }
         //reaksiya əlavə etmək
-        [Authorize(Roles = "Owner,Member")]
+   
         [HttpPost("{id}/reaction")]
         public async Task<IActionResult> AddReaction(int id, string reaction)
         {
@@ -59,7 +77,7 @@ namespace API.Controllers.Web
             }
         }
         //fayl yükləmək
-        [Authorize(Roles = "Owner,Member")]
+    
         [HttpPost("UploadFile")]
         public async Task<IActionResult> Upload(IFormFile file,string content,int chatId)
         {

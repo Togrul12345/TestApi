@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Application.Features.Mediator.Queries.MessageQueries
 {
-    public class GetMessagesQuery:IRequest<IResult<DomainSuccess<List<ResultMessageDto>>,DomainError>>
+    public class GetMessagesQuery : IRequest<IResult<DomainSuccess<List<ResultMessageDto>>, DomainError>>
     {
         public int ChatId { get; set; }
 

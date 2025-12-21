@@ -16,9 +16,11 @@ namespace Domain.Entities.ChatEntity
         public string? FoneImg { get; set; }
         public int? SuperAdminId { get; set; }
         public virtual AppUser? SuperAdmin { get; set; }
-       
-        
+        public bool? IsReadOnly { get; set; }
+
+
         public virtual List<Message> Messages { get; set; }
         public virtual List<ChatUser> ChatUsers { get; set; }
+        public virtual List<InviteLink> InviteLinks { get; set; }
     }
 }
